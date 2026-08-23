@@ -1,20 +1,4 @@
-const main = async () => {
-    const query = prompt(">>> ");
-
-    const response = await fetch("http://localhost:11434/api/chat", {
-        method: "POST",
-
-        headers: {
-            "Content-Type": "application/json",
-        },
-
-        body: JSON.stringify({
-            model: "qwen3:8b",
-            stream: true,
-            messages: [{ role: "user", content: query }],
-        }),
-    });
-
+const render = async (response) => {
     const reader = response.body.getReader();
     const decoder = new TextDecoder();
 
@@ -50,8 +34,28 @@ const main = async () => {
             );
         }
     }
-
     console.log();
+};
+
+const main = async () => {
+    const query = prompt(">>> ");
+
+    const response = await fetch("http://localhost:11434/api/chat", {
+        method: "POST",
+
+        headers: {
+            "Content-Type": "application/json",
+        },
+
+        body: JSON.stringify({
+            model: "qwen3:8b",
+            stream: true,
+            messages: [{ role: "user", content: query }],
+        }),
+    });
+
+    await render(response);
+
     main();
 };
 

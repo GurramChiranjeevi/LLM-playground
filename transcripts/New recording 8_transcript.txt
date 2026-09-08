@@ -1,0 +1,186 @@
+# Transcript: New recording 8.m4a
+
+[00:00:00] **Speaker B**: For the banks and other institutions, okay, repo rate, repo rate, lot of those rates.
+
+[00:00:10] **Speaker A**: So Reserve Bank rate allows Repo rate 5.25%, STF, MSF, etc. So these are different rates. One of the rates is for lending, one of the rates is how much they need to keep with reserve bank to run a business. Okay, what do you think? Let us say, give me one popular bank, private bank. IDFC Bank is running business for 1,000 crores. How much money do they have? What is that? Do you think they have 1,000 crores? They probably have 50 to 100 crores, and they run 1,000 crore business with them. Okay, so now if they they— something goes wrong with them, RBI has to help them. So that's why RBI makes them mandatory keep some money with the RBI. Okay, it's called the reserve, uh, cash reserve ratio or something like that. One, one ratio of whatever you are doing business, that much should be with RBI. And periodically they can increase or decreasing to control the inflation in the country. Basically what they're doing is have less money be available in the free market by making banks put more money with RBI for the banking fees they are doing. So, that way they control. Anyway, so there are multiple rates. Only one of them matters to us. Which one might matter to us?
+
+[00:02:21] **Speaker B**: There are many rates that, uh, Reserve Bank Governor announced. What are those? And how do you rate? In fact, repo rate is the headline, okay?
+
+[00:02:55] **Speaker A**: The rate at which banks borrow money from Reserve Bank is a repo rate. There are times when banks need money for cash flow, so they borrow from Reserve Bank. That is repo rate. The reverse repo rate is they have extra cash, they want to keep it with the RBI, so RBI will give them interest. That is reverse repo rate. MSF— Margin, Marginal Standing Facility— emergency borrowing window. So sometimes there's some emergency need, suddenly there's like a lot of salaries to be given Lot of people have been trying. So, this is marginal standing facility, this is for emergency. Then the bank rates, cash reserve ratio, percentage of deposits bank must keep with RBI, no interest earned. This is the thing I told, how much you have to reserve to run a business, natural liquid ratio.
+
+[00:03:51] **Speaker B**: Now, I want what are my bank loan rate, okay, repo lending rate, so 6.5%, and then bank keeps 1 or 2% for themselves. So how will all these things affecting the bond rates is what we'll figure out.
+
+[00:04:34] **Speaker A**: Let's go back to our bond rates. ₹400, last traded price ₹414. What is 414 by 400? 1.0 3.5. Okay, 1.035.
+
+[00:04:57] **Speaker B**: 1.035.
+
+[00:05:00] **Speaker A**: Uh, 7.9 divided by 1.035 is around 7.63. Okay, so what will happen? Let us look at it. These guys wanted money. They said, hey, uh, give me— I will sell you a bond, I'll give you an upside for 9% per year. What is RBI? What are banks giving? It's a deposit. What are they giving? 6%. Be careful about your money. So 6.5 is what you are getting.
+
+[00:05:47] **Speaker B**: If you—
+
+[00:05:48] **Speaker A**: some people might give you more, but maybe just this. And these guys are giving? Okay. So what do you think people will do? They will want discounts, no, from you. So what will happen is the money that is coming out, which is— how much is coming out right now? ₹31.65, right?
+
+[00:06:14] **Speaker B**: Yeah.
+
+[00:06:15] **Speaker A**: Let us find out what is ₹31.65 of ₹414. Comes around 7.6. Okay, uh, what are the other rates we saw here? 430— let's see, 431.60 by 431.
+
+[00:06:40] **Speaker B**: 7.3.
+
+[00:06:42] **Speaker A**: So this is a little bit premium over— because it is private, right? So this is a little bit extra over what banks would give. This is for the risk you are taking getting bonds in the outside market. But what will happen is the bond rates will be traded in comparison to the prevailing interest rate of RBI. Let us say, let us take some example, okay? Let us say, uh, I'll go for tax-free or Government of India bonds. That might give you more accurate. Government of India also wants money, right? They issue bonds, so you and I can go and buy. They give 25, 35 years bonds, etc. You can see it over here. You'll probably see GOI or something like that. These are government securities. This is maturing in 2050, maturing in 2035, 2026, etc. We will take 2050. What's the face value? 100 rupees. Uh, what's it currently being traded at? 94.
+
+[00:08:37] **Speaker B**: Discount, huh?
+
+[00:08:40] **Speaker A**: Uh, they are giving 6.61%, but interest rate has fallen. RBI's interest rate is low now. When they issued, it was— when was it started? Do we see this here? When was the issue date? I'll have to say can, but it doesn't say when it got started. So this is historical data, one year data they'll be giving. That's not what I want. I can search actually, uh, what's the symbol of this one, right?
+
+[00:09:32] **Speaker B**: I did, uh, go to ChatGPT.
+
+[00:09:41] **Speaker A**: Thus, ladies, this is your way of cooking eggs.
+
+[00:09:50] **Speaker B**: I want to know more about eggs.
+
+[00:09:55] **Speaker A**: When you cross fish to eggs, etc., maturity, etc.
+
+[00:10:06] **Speaker D**: The interest rate will be same for the bond or it will vary as well?
+
+[00:10:12] **Speaker A**: It will. So, interest rate is basically when is a bond sold? Whenever the borrower is in need of money. Reliance can sell, private companies can sell, government of India can sell. Every year they need money to build roads, highways. They need to borrow, right? So at that time they'll issue the bonds. Whatever is the interest rate at that point of time, they will offer that interest rate. It has a government backing, so it's safe, but the demand and supply would be based on whatever is the interest rate at that point. Lifecycle? The coupon rate will be same.
+
+[00:10:59] **Speaker B**: Coupon rate, I would—
+
+[00:11:01] **Speaker A**: we don't call it interest rate because it's on face value. Interest should be on your net, net value, no, whatever is be traded. So they don't guarantee that, they just say I'll give you face value. So what now, what happens if I have, uh, let us say amount is not The government has given the bonds at 6%, but after that the interest rate went up. What will happen? Bond value has to fall, because whatever interest that comes out should be equivalent of the current Reserve Bank interest. If it falls, bond value will rise. When I'm trading. Because see, if not for this, what will I do? I'll go put money in government securities. That's the safest place. So the interest is fixed, interest rate or yield I can actually calculate based on that. It's like demand-supply, so it all averages out. If I have 4 companies which have sold bonds at different times, at different interest rates, and all of them are comparably safe company. So let us say Wipro, TCS, Reliance, Infosys— no, I won't put Hotworks. We are not as trustworthy as these 4 companies in India. Those are big and Indian companies. Developers might buy our bonds, I am not sure. So, say there are 4 comparable companies of equal interest having issued bonds at various times. Right now, if you go and try to figure out what is the interest it will generate, all of them will almost be same, even though their face value could be different, coupon coupon rate could be different, but the yield, which is the actual interest which you will get out of it, will all be similar. How does it happen? By bond price getting traded higher or lower, it gets adjusted. So, you can see this, the second you are looking at, it was issued in November, 2nd November 2020. What was the interest rate at that point of time? Do you remember? Somewhere here, it might be a little bit premium also. It might be 6% or something. 2020, we had cut down the interest rate because COVID had happened, right? For the economy to run, they had done a lot of stuff. After that, the interest rate has increased. So technically, Why will people go give 100 rupees and get less money back? People are saying I do not want, keep it. I am getting more interest in bank now, why should I get your bond? People are saying please take now, I will give 4-5 rupees discount, take it. It will, the interest you are getting, the coupon you are getting, it is equivalent to what you are getting in the bank right now. So, what are they offering? 6.67, right? 6.67. Now, if you go there and look at the latest price? 9430. What is 6.67 divided by 9430? The number looks similar, 7 point something. This is government, so 2035, say discount, because government, the risk is less. So interest also would be less. Everything is coming around 7.2, 7.3. This is because the interest rate has gone up after they have issued. Similarly, you can find any bond, figure out when they are issued, and if the interest rate has gone up, the bond— take that 400 became 440, this 100 became 94. It is just based on so that the net interest that comes out at any point of time should be equal to what is available in the market. So, you get a broad idea, right? You get a broad idea of why the bond rates are going up and down. It is just to match the effective interest you are getting out of the bond. Should be fair enough to whatever RBI is doing.
+
+[00:15:35] **Speaker D**: So, what is RBI is doing, this value is matching to that.
+
+[00:15:39] **Speaker B**: Yeah.
+
+[00:15:40] **Speaker A**: According to that, because I have an option. If you are giving me Government of India bond 100 rupees, take government is 100 rupees, what am I getting?
+
+[00:15:48] **Speaker B**: 6.61%.
+
+[00:15:49] **Speaker A**: I do not know. I will go take it from RBI directly. Why should I take it from you? You will say, okay, fine, take how much? I will try to make the interest rate equivalent to that. I will reduce my bond price, so interest rate will be equivalent to what you are getting from RBI. Please take it from me. So, all of them sort of manage themselves. Come back to that later. So, if you want a safer way of investing and having cash flow, etcetera, bonds are one of the things. Bonds fluctuate less, bonds are little bit more linear, they have predictable cash flows. The next problem we are going to do—
+
+[00:16:31] **Speaker C**: ah.
+
+[00:16:35] **Speaker A**: So, the face value is what? This is 100 rupees.
+
+[00:16:41] **Speaker C**: Face value is 100 rupees. At that time, RBI is interested to know, is there any person who can do this thing?
+
+[00:16:51] **Speaker A**: Yeah.
+
+[00:16:52] **Speaker C**: Are they experts? Yeah.
+
+[00:16:55] **Speaker A**: So, all the experts, etc.
+
+[00:16:57] **Speaker B**: So, how did they approach this?
+
+[00:17:00] **Speaker C**: So at that time, the interest I'll get from the bond will be of 7%. And after some time, COVID or something, they reduce the interest.
+
+[00:17:11] **Speaker A**: RBI reduced for banks and everything else. So which means if any bonds were issued in '22, '23, '24, they will be giving lesser money for ₹100. They won't be giving ₹60, ₹67. They might be giving ₹5, ₹6.
+
+[00:17:26] **Speaker C**: So does the bond interest value also—
+
+[00:17:29] **Speaker A**: that is fixed. That's it, that's fixed. They are not telling I'll give you 6.67%. What they are saying is I will give you 6 rupees 67 paisa on the bond because bond's face value is 100. They are guaranteeing every year I'll give you 6 rupees 67 paisa.
+
+[00:17:46] **Speaker B**: That's it.
+
+[00:17:49] **Speaker A**: So they are guaranteeing, that's why it's called coupon rate. They don't They don't tell interest rate. If you say interest rate, it should be on the capital. They don't say that. You give me ₹100, I'll give it back to you in 2050. Okay, that is the first thing. See this, in 2020, the Government of India borrowed ₹100 from you. They are giving back to you in 2050. That you If you hold it, you take it at ₹94, you will see it at ₹100 in 2050, if you can wait. Every year they are giving you ₹6.67 on the ₹100. That is it. In the middle you want to leave it, you want cash, I want to go, what should I do? I can sell it to someone, but people will only give me ₹94. But if you decide to hold it till that year, 20 rupees, you'll get— government will give 100 rupees. Government has guaranteed, I'll give 100 rupees at the end, 6 rupees, 67 paisa, every year.
+
+[00:18:54] **Speaker B**: That's it.
+
+[00:18:54] **Speaker A**: In the middle, we want to deal, we want to trade, I think it will be based on demand. Why will I give you 100 rupees when, uh, I'll get, uh, I'll get for 95, 96 rupees from RBI, I'll get the same amount of 100 rupees? I won't give you. It's a— while it is being traded, it's being traded at a lesser price. Clear, but it's not a loss yet. If you want to hold it till 2050, you will get your 100%. Okay, so let us see when it started. When the bond was issued, for ₹100 you will get ₹6.65 paisa. That is the first thing, right? I will note that down. Okay, so, uh, Bond 12 in 2020. For ₹100, they're giving ₹6.67. Okay, Bond 2 issued in 2025, for ₹100, they're giving ₹5. Okay, yeah, so this is Government of India issuing a bond in 2020, Government of India issuing a bond in 2025. These are two different bonds.
+
+[00:20:39] **Speaker C**: Government is issuing.
+
+[00:20:40] **Speaker A**: Government is issuing.
+
+[00:20:41] **Speaker C**: The one I bought at 2020, which is still giving 5 rupees.
+
+[00:20:45] **Speaker A**: Yeah, this will still be giving 5 rupees.
+
+[00:20:47] **Speaker C**: This is a newer bond.
+
+[00:20:48] **Speaker A**: This is a newer bond.
+
+[00:20:49] **Speaker B**: Okay.
+
+[00:20:50] **Speaker A**: Now, if you want to exit this because you want your 100 rupees back, you want some cash, if you try to sell this in the the market, why will someone give you ₹100? They'll go and take this.
+
+[00:21:05] **Speaker D**: No, let's give this.
+
+[00:21:09] **Speaker A**: Yeah, repeat.
+
+[00:21:10] **Speaker D**: I say the opposite. Opposite.
+
+[00:21:14] **Speaker C**: If sizing is—
+
+[00:21:14] **Speaker A**: Yeah, you're right. I'll make it 5.5. Okay, okay. So, and I'll make one more B3 of 2030, ₹100 bond, it gives you ₹5. Okay, now all three are issued by Government of India. Okay, it can't be that you can trust them 5 years later, 5 years earlier you can't trust them. It can't be. So the valuation, the net interest should all be same. So which means this 6.6% 7, this is the face value, right?
+
+[00:21:57] **Speaker B**: Yes.
+
+[00:21:57] **Speaker A**: So when they are— when the original issued, how do I— how do I calculate interest rate?
+
+[00:22:05] **Speaker B**: Interest is equal to interest rate into principal, right?
+
+[00:22:15] **Speaker A**: So since 667 is equal to 667 into 100, right?
+
+[00:22:24] **Speaker B**: Percentage into 100.
+
+[00:22:27] **Speaker A**: Now what has happened? Uh, what is the new interest rate? 7.5%.
+
+[00:22:34] **Speaker D**: Yes.
+
+[00:22:35] **Speaker A**: So this is fixed, right? Interest is fixed, that can't change, it's a coupon rate, is equal to 7.5% of traded price. So that is, uh, 6.67 divided by 7.5 into 100, that comes to 89— 88.93. Which is 88.93 or 94. So right now, if the prevailing market interest rate was 7.5%, that if you want to sell that this bond to me, I will not give you more than 88 rupees 94% because I will— that 6.67 is 7.5% of 88.94. I will not give you more than that because I'm, I'm giving for interest only. So, I am getting interest, better interest somewhere else. So, that is why bond prices fall.
+
+[00:23:39] **Speaker B**: That is like 1 year interest, I think.
+
+[00:23:42] **Speaker A**: No, every year interest, not 1 year, until maturity.
+
+[00:23:48] **Speaker D**: So, I get the interest which I am losing in 7.5 for 8.94, right? But that interest is for like 1-2 years after maturity.— that I'm again like, it's again 6.65.
+
+[00:24:03] **Speaker A**: Yeah, so at that time, if the interest rate falls or rises, the traded value will also change. Finally, let us come to 2049, uh, 1 month before the maturity. Okay, what do you think will be the price? It will be 106 6.67, around that, because one interest is left and government is giving back ₹100. So that will be the value at that point. So 2050 is the maturity. 2050, November 2nd is the maturity. So on November 1st If you want to buy it from the market, it will be ₹100 plus ₹6.67 because government is giving you interest for next day, and the same day government is giving you back the cash, ₹100 cash also, whoever is holding it. So by that time it will come up with— if you want that, hold it. They not one day before. There's a possibility if the interest rate falls, it will go like this. 400 became 440. No, that's also possible.
+
+[00:25:26] **Speaker D**: Can we do like private transaction of bonds, or is it done through the exchange?
+
+[00:25:35] **Speaker A**: Oh, it's called off-market transaction. Demat-to-demat transfer can be done, but income tax is TCS is looking at it. If it is not within your family, they will ask, they will say, oh yeah, you have done without the exchange. I know you have done a deal. They will figure out the difference and ask you about capital gain of it. But you have to, they will not take that, you will have to give. Because they do not know how much you bought for extra. They will ask, give me the transaction, what did you do the transaction. The question, it looks like you have made money, is what else? But yeah, so this is not an easy concept to wrap your head around. Like, how does the bond price go up and down? You got a feel of how it goes up, right? Next, when you study or when you look at it, you'll understand. Don't break your head on it. Understand that even bond prices go up and down just like stock prices. I'll give you one more scenario. We are not dealing with government now. Uh, you know the Reliance, uh, company which went down?
+
+[00:26:43] **Speaker C**: Which name?
+
+[00:26:44] **Speaker A**: Jega Brothers. Oh yeah, Reliance Communication. That went down. Say if, uh, if they had a ₹100 bond, what would it be traded at right now?
+
+[00:27:00] **Speaker B**: Right now?
+
+[00:27:02] **Speaker A**: Not zero, because if they get— someone gets money, it's lottery. No, it's like, like stock, they'll make money because if they honor, they'll get ₹100 back. So for ₹1, I'll get ₹100. I made 100 times using bonds, not even stocks. So loan recovery agents do this. So it's called ARC, Asset Recovery Company. I don't know if you have heard about it.
+
+[00:27:26] **Speaker C**: These loan recovery people buy on the bond.
+
+[00:27:29] **Speaker A**: Yeah, they go negotiate and say, okay, fine, you need to be a good person, your certification should all be good, let's make a deal, at least give me 50% of your loan back, I'll be happy. They'll get it at 5%, they'll finish at 50%, they'll get 10 times sitting there. It's called asset recovery.
+
+[00:27:53] **Speaker D**: Companies.
+
+[00:27:55] **Speaker A**: This is not going behind people taking credit card and all. This is like big companies.
+
+[00:28:01] **Speaker D**: Okay.
+
+[00:28:03] **Speaker A**: Asset recovery companies specialize in locating, securing, and reclaiming lost or stolen unclaimed financial physical assets for individuals or businesses, including IT assets, etc. So, so these guys actually specialize in this. They specialize in identifying what loans people have deemed that it is bad, but it is not that bad. You can get in and actually make some money out of it in the middle. Coming back, we will actually solve a problem once you understand this bond concept, right? I will show you the problem that is interested, that we are interested in solving. This you have seen yesterday, Jiwanada. Yes. This is the one. National Highway Authorities of India bond, face value 1000 rupees, coupon rate 8%. 8.2%, maturing on January 25th, 2022. I purchased it at 1128 on August 8th, 2019. Okay, so I want to find out what's the actual rate of interest. Okay, 8.2, which means I'm getting how much? 82 rupees every year. 20 divided August 8, 2019. So we have about 3— 2 and a half years to finish. So we can figure out what all money, what are the cash flow, and figure out the interest rate. So I'll show you the calculation. So, what all you see, issue date is 1st of January, 25th January 2012, maturity date 2022. So, basically 10 years they issued it, interest on October 1st, face value is 1,200. This is the last traded price. Now, let us look at if I buy the bond from the open market, how is the cash flow? On 8th August, I paid 1128 and bought the bond. On 1st October, I get 82 rupees. Next year, 21 also I get it. Then what happens on 22? You see, it is interest payment is in October, but it is maturing in January. So for that past period, I get ₹26.06 interest. They have agreed on coupon rate for that amount. They have not told interest or something, right? They are giving ₹26.06 on Jan 25th, on the day of maturity, for the last 3 months or something, and they are giving back my ₹1,000.
+
+[00:31:23] **Speaker B**: Clear?
+
+[00:31:24] **Speaker A**: So, there were 3 interest payments to be done. The 4th one is partial one because the bond is anyway maturing. They will not keep it till October. They will not give interest in October. You are anyway— they are giving back the ₹1,000 to you in January or something. So, if you take all these things, I paid 1128 and I got 1272 back. 1000 rupees, 26 rupees at the last one. I collected interest on 3 times. Okay, we'll find out the rate of return.
+
+[00:32:09] **Speaker B**: 5.6.
+
+[00:32:10] **Speaker A**: What was the coupon rate? 8.2. What we actually made is 5.6.
+
+[00:32:17] **Speaker D**: That means like for less amount of years, for less amount of years.
+
+[00:32:22] **Speaker A**: No, but 8.2 was guaranteed for every year. And why you got that? Because in— when is this date? 2019 August, right? Very likely the prevailing RBI interest rate would be around 5.5 or 5.3 or something like that. So, you are getting just a little bit extra from that. So, the deal will be such that it will match whatever RBI is giving around that time. So, this is how— yesterday I was talking about how you can have any stock stock transaction, bond transaction, anything, right? You just give me money going in and out and dates, I can tell you what is the rate of return. So, this is how you do it with Excel.
+
+[00:33:12] **Speaker B**: Clear, right? Good.
+
+[00:33:16] **Speaker A**: So, since it is, we will take a 5-minute break and then come back into the interesting world of equity. Now, in a world with bonds and other things, equity is more fun stocks. There is more chance of making a lot of money. Is it a good idea to buy bonds? Yes, sir. Depends. Okay, yes and no. Yes and no. Depends. The reason being, if you got the bonds from the short-term money, you have a bunch of papers with you. I don't know how much interest you paid. You are not getting your principal back. You thought the risk was only in stocks.. If the company goes— see, in terms of the bond, the company has to honor the bond before they honor the stocks, right? If they are running loss, they have to sell their chairs, tables, whatever, and give you back your bond money first before they give any more money to the stockholders, shareholders. First money has to go to who are issued bonds. Even in that there is a rank. Maybe the first government of India will tell that he has to pay tax, pay the money first, then do everything else. Then banks will say give it to me first. Afterwards all the small lenders like you will come into the picture. So even there there will be a queue of I want that money first. So yeah, but the bigger Reliance is safe, Jifro is safe, TCS is If you feel that I don't want to take too much of risk of playing with the stock market, you can go with the bond market. Yeah, you are investing in fact. Here also you go buy bonds from the interest you got. There is a good point, there is an interesting instrument just meant for that. We will talk about that later. Someone doing it for you, because bonds, someone has to collect the interest. Someone has to buy 4 bonds out of the interest. Someone does it for you for a small fees.
+
+[00:36:05] **Speaker C**: Broker.
+
+[00:36:06] **Speaker A**: Those are— no, not broker. Broker, you will have to tell what to do. No, can someone give me who is that entity? I am going to go for a break. Yes, but what do we know them as? Mutual funds. Yes, mutual funds not only deal with stocks, they They deal with bonds also. There are debt mutual funds which will hold a portfolio of bonds. So, your risk is less because your share will be one amongst many over there. So, it will manage the risk better. When we talk about mutual funds, remind me, I will talk about bond mutual funds which will manage the bonds. There is an advantage, it will grow, it will not generate cash, it will keep keep growing. If it generates cash, you have to pay tax. No, you will not generate cash. It will just keep growing. Only when you sell, you have to pay tax. So we'll, we'll talk about it when we discuss mutual funds. We can go for a 5-minute break. Bondman.
+
+[00:39:02] **Speaker D**: Oh, yes.
+

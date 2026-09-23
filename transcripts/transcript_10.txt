@@ -1,0 +1,78 @@
+# Transcript: New recording 10.m4a
+
+[00:00:00] **Speaker A**: Her 80 shares go, my 20 shares go, my partial order is left. I am still left with another 100 shares in my hand.
+Others are still waiting because it all depends on how much gets filled also. So that's why the orders matter, because inside that there's a queue.
+
+[00:00:20] **Speaker B**: So when you click on the sell, it's not immediately sold.
+
+[00:00:23] **Speaker A**: Yeah, you will get queued up behind others as well.
+
+[00:00:25] **Speaker B**: So after some time when it got really sold, they will get our money.
+
+[00:00:29] **Speaker A**: Yes. So, there are two kinds of queues here, one price queue, one same price queue, right. So, whenever you put, there are multiple queues at each price,
+I mean there is one queue at each price, you will be pushed into that thing, you will be enqueued onto that, then it will be dequeued whenever the order matching is done.
+
+[00:00:55] **Speaker B**: While buying or selling, do we get any option to select the offer? Because they always have market offer, never a limit.
+
+[00:01:03] **Speaker A**: You get a choice.
+
+[00:01:04] **Speaker B**: We can do market offer or limit offer?
+
+[00:01:07] **Speaker A**: Yes, you can. You can even do stop. So for a stop, there is a trigger. You will say my order should not be seen to people unless this price hits.
+Otherwise they will see, just come and take your trade and go. So there is something called as a trigger for that. When that trigger price hits, then your order gets activated. No music. Yes, yes, they are all.
+Even if Ambani comes and wants to buy his own shares, he will also be here only. It will always be open market. But if he comes, it is like elephant in the room. You can see footprint all over.
+Because he will not waste his time for one stock. Suddenly he will say, big number here. Hey, this number should be interesting to you, no? All this is 44. This is like 5,000. This is like 36,000.
+So there's some future fund or someone doing all these deals out there. Because look at the amount of money, uh, 16,000 into 262. How much is the actual value? How much?
+Yeah, so someone with 4 crore cash is ready to buy here. You think they can hide behind the grass leaves or something? They are an elephant or— How will they inflate? They are only losing.
+See, you can put whatever here. Someone has to deal with you. If they don't deal with you, they— if I put it here, someone will go above it. They know you can't move. You are like an elephant.
+You can't— you go out there, you're losing like 50 lakhs or 1 lakh if you make a deal over here. So it's harder for you to move. I'll put my 100 rupees and take my share out. You heard about block deals? No.
+Okay, so say, let us say Mutual Fund has to sell stocks. Mutual Fund has to sell Reliance stocks. They have thousands, I mean hundreds of crores of stocks. So, they have to dump 50 crores of Reliance stocks.
+Dump means they want cash. They put 50 crores here, they alone will put it on the market. They cannot even show up with this order here.
+50 crores, people are like, dude, I think something is wrong with Reliance. Someone is selling 50 crores, don't do anything, let's watch. They can't deal.
+So what they like to do, they like to go and talk to someone. They need a dealer. They'll talk to another mutual fund. So we, as I said, will talk to Reliance. Hey dude, I want 50 crores of Reliance to sell.
+Are you ready for the deal? This is the price which I'm trying to do, and I'm trying to do at this time, at 2 o'clock. I want to place my single order. Deal? No, you'll be on the other side.
+Says yes, because they can't exchange it outside. So to unlock that, then say, okay, I'm going now, I'm going in, I'm putting it, please take it. They'll put. Now others would have heard it.
+They'll come and take in the middle. They'll stand in the middle and take the deal. Because you put, someone puts this, someone comes to the other side, there are others in the middle who will make money.
+Whoever is in the middle takes some of it. Because it is hard to deal with that volume, right. So, you need bulk deals, you need to talk to someone on the other side who will take it from you,
+but still it has to go through the external, you cannot do it outside. So, at that time there will be like someone can make money in the middle.
+They can have multiple, but yeah, one generally they do for each kind of mutual fund. They will have one, like HDFC would have multiple. They have multiple mutual funds, right?
+So because they have to hold the shares in demat themselves, so they will have one demat account for, say, HDFC focused fund, HDFC long duration fund, something like each will have one, this one.
+And they will be holding stocks of that demand.
+
+[00:05:36] **Speaker B**: Is it illegal to like get lots of people together and reduce the price or— like it is high, I have always been—
+
+[00:05:45] **Speaker A**: you can try, you need a lot of money. People do that, people short, people pushing things down, pushing. You can try doing it, you need a lot of money.
+If you do circular trades, they know it is illegal. They should have someone else dealing. Then 5 people sit and they trade stocks with you, they will break it up, and then when everyone sells, you go buy it.
+
+[00:06:15] **Speaker B**: Ah, can't we transfer the stocks from one account to another?
+
+[00:06:25] **Speaker A**: So, the easiest way to do is you sell in the market, they buy in the market. That is one account transfer. Harder way to do it, you can do it offline also.
+There is a slip, you have to write the slip, whom you are transferring to, etc. Then off market, they will take it from your demand account and send it to them. It is harder for them.
+They are mandated to deal it with the market. That is only for family, and they will be treated as a transaction and you will have to pay tax also.
+Within family, you can know the reason and you will not pay for it. Okay, cool. But the main part is you understand how an auction occurs. Auction is no longer one person or not only buyer or seller thing.
+It is multidimensional. There is a queue at each price, and there is the price ladder, and there are 3 kinds of orders: market, limit, and stop.
+Market moves through the market orders because that market person is taking the market somewhere up or down. Others are sitting and doing nothing. What do you do with this? Do not ask me right now.
+Because if you place an order in the stock market, what should you do? Which order should you use? Limit. Limit is safe for you. You are not Aman, remember.
+You do not put market order, people will treat you like Aman, like getting free gift from you. That is all. Okay, good. So this is how— this is usually how to locate it,
+but the displays in most of the trading terminals will be like this, and you get it by clicking on this, this part, market depth. You click on that, it will open like this.
+So the same way you can— all the bonds, everything will be traded like this. Cool. About the close, because we have done the major portion of understanding how a trade occurs,
+how stocks and bonds are listed in the market, why they are listed in the market. And both are just partnerships. The bond— sorry, yeah, bond is a partnership in a loan,
+stock is a partnership in equity or in the profits of the company. And listing is done so that It is more liquid, people can enter and exit, and it is trusted if it is listed. Otherwise, it is all private.
+And we also figured out today how the bond prices change according to interest rate. So, we also seen a little bit, I will show you something in short, Reliance, just there, whatever is there.
+Okay, this is the intraday, how the price movement happened, how the trading happens. Like in the middle of the market, if you go here, NSE also publishes, you would see that same market depth over here.
+Order books into that. Then, yeah, there are other places where you can study in detail about Reliance, what all they have, how their quarterly reports have been.
+I will show that later when we learn how to study a company, what data can you see, how can you compare with other companies. I will show you websites which are just meant for those kind of study,
+study fundamental data. But I think you know enough about bonds and stocks right now to go into the next kind of things built on this,
+where we would study how do you Can you build a portfolio of stocks or bonds? Like, can I buy and sell stocks or bonds? How do I use it to build my wealth or asset? That you can figure out.
+You can figure out how to trade, how to make trading decisions based on this, or investment decisions. I'm not told the analysis of those things, but you're ready for most of the studies right now.
+You are also ready to understand how mutual Mutual Funds book, which is probably one of the next things we will look at, because that gives you some safety.
+So, we will study mutual funds in both in a debt bond context as well as in a stock market context. This will give you a good exposure to the most of the things that has to do with the capital market.
+We can learn using this going forward. Good. Now, any questions as we close down? National, that's a private— its name is National, but it is not government, okay? It's private, uh, company.
+There are stakeholders for that. They will go IPO soon. Yeah, it's been there for a long time. They had a lot of scams running inside, so because of the cases that were running, they couldn't go public.
+They're planning to go public NSC. BSE is already listed. The fun is they can't list in their own exchange. So BSE is listed and is traded in NSC.
+So NSC has to wish that BSE survives because NSC shares should be traded in BSE. Cool. Any other question? I hope you found it interesting. Yeah, and a lot of deep learning in the fundamentals.
+A lot of people won't talk— you go to YouTube videos, all those places, they won't talk at this step of how things exist and what's the mechanics behind each of those things.
+Yeah, I'll probably also, whenever we deal with it, I'll also show you different ways of reading the market data technically, like You would have heard about candle charts and other things, right? Candlesticks.
+So I can talk about that also, how you can read it, how you can make decisions based on that. And somewhere in the middle, I'll also talk about risk. You have to understand, all this is random.
+What we are trying to see is see pattern in the middle of randomness. So statistically, we look at this randomness and figure out how to, how to deal. Cool. Okay, we will stop for the day.
+

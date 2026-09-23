@@ -16,11 +16,13 @@
 
 [00:02:03] **Speaker C**: And this is not needed because someone is saying so, or it is a good way to do it. It is needed to reduce your own effort.
 
-[00:02:13] **Speaker B**: What you are not realizing is things that you just keep doing and things will solve itself, you are not doing that. You are probably overworking and tiring yourself out and losing interest.
+[00:02:13] **Speaker B**: What you are not realizing is things that you just keep doing and things will solve itself, you are not doing that.
+You are probably overworking and tiring yourself out and losing interest.
 
 [00:02:27] **Speaker A**: You are not doing simple things.
 
-[00:02:35] **Speaker C**: Care and concern for you, not because I'm annoyed, but I think that's where we are inefficient. It's not just you, I will also be in such a way in certain things, and that would be affecting me, that would be resulting in, uh, hiring, loss of, uh, time and other things, right? So I need to work on that myself.
+[00:02:35] **Speaker C**: Care and concern for you, not because I'm annoyed, but I think that's where we are inefficient. It's not just you, I will also be in such a way in certain things,
+and that would be affecting me, that would be resulting in, uh, hiring, loss of, uh, time and other things, right? So I need to work on that myself.
 
 [00:02:59] **Speaker B**: Same way you need to Consciously you need to work on it yourself.
 
@@ -64,15 +66,21 @@
 
 [00:05:01] **Speaker B**: Drawdown means any fall from any top is called a drawdown.
 
-[00:05:05] **Speaker C**: So if I make an equity curve, an equity curve is how is your money doing. Equity is my money, right? So if I just keep buying mutual funds or any stocks, etc., and it is profiting, then the curve is going up. From there, whenever the stock or mutual fund value falls, it goes down.
+[00:05:05] **Speaker C**: So if I make an equity curve, an equity curve is how is your money doing. Equity is my money, right? So if I just keep buying mutual funds or any stocks, etc., and it is profiting,
+then the curve is going up. From there, whenever the stock or mutual fund value falls, it goes down.
 
 [00:05:28] **Speaker B**: This is the peak, this is the trough, right? This distance is called drawdown, right?
 
-[00:05:36] **Speaker C**: Because there is profit and loss, and there is movement of stock. You don't know what your bad luck is waiting for. If a stock has been doing this, or if a mutual fund has been doing this, your bad luck will buy at the peak, and you have to see this fall. If you don't have the stomach to handle this fall, it will be very miserable. That's why looking at ahead of time what is the maximum fall that has happened anytime helps you to understand what can I expect from this return. So that's why we look at risk-adjusted returns. Basically, any returns you get, divide with the max drawdown to figure out how much I might have had to lose to make this money. Once you know that, it helps you to compare between each of these. Okay, any, any other term you remember?
+[00:05:36] **Speaker C**: Because there is profit and loss, and there is movement of stock. You don't know what your bad luck is waiting for.
+If a stock has been doing this, or if a mutual fund has been doing this, your bad luck will buy at the peak, and you have to see this fall.
+If you don't have the stomach to handle this fall, it will be very miserable. That's why looking at ahead of time what is the maximum fall that has happened anytime helps you to understand what can I
+expect from this return. So that's why we look at risk-adjusted returns. Basically, any returns you get, divide with the max drawdown to figure out how much I might have had to lose to make this money.
+Once you know that, it helps you to compare between each of these. Okay, any, any other term you remember?
 
 [00:06:37] **Speaker B**: Huh? Expense ratio.
 
-[00:06:39] **Speaker C**: Expense ratio is the percentage of money you would be giving every year on your funds. If you have bought for ₹1 lakh and the expense ratio is 2%, it means every year 20, 2,000, 2,000 rupees. No, first year, 2,000. First, let us say nothing happens to the mutual fund. It is at 98,000 end of first year. Next year, 2% of that, which is 990 rupees.
+[00:06:39] **Speaker C**: Expense ratio is the percentage of money you would be giving every year on your funds. If you have bought for ₹1 lakh and the expense ratio is 2%, it means every year 20, 2,000,
+2,000 rupees. No, first year, 2,000. First, let us say nothing happens to the mutual fund. It is at 98,000 end of first year. Next year, 2% of that, which is 990 rupees.
 
 [00:07:11] **Speaker B**: One, now how much was it previously? 1 lakh, 2,000, right?
 
@@ -82,13 +90,15 @@
 
 [00:07:37] **Speaker C**: Around 2% of that will be— so that is the cost.
 
-[00:07:41] **Speaker B**: So that's why choosing something with a decent expense ratio is important, because the market has not done anything, it is the expense ratio won't eat away. Their expense ratio will eat away your compounding because it is taken every year.
+[00:07:41] **Speaker B**: So that's why choosing something with a decent expense ratio is important, because the market has not done anything, it is the expense ratio won't eat away.
+Their expense ratio will eat away your compounding because it is taken every year.
 
 [00:07:55] **Speaker C**: Okay, what else do you remember?
 
 [00:07:59] **Speaker B**: Huh? Capital gains.
 
-[00:08:01] **Speaker C**: The profit made or the loss made after selling and buying— between buying and selling a stock or mutual fund is called the capital gain or capital loss, and it can be carried forward for 8 years.
+[00:08:01] **Speaker C**: The profit made or the loss made after selling and buying— between buying and selling a stock or mutual fund is called the capital gain or capital loss,
+and it can be carried forward for 8 years.
 
 [00:08:15] **Speaker B**: Okay. So, which means if I made a profit this year, then I am paying tax.
 
@@ -126,21 +136,26 @@
 
 [00:11:18] **Speaker C**: So if you make 2 lakhs profit, then 11.25 lakhs is free. So there's also a reason why, say, you have made a decent amount of profit in this year.
 
-[00:11:30] **Speaker B**: So today you will book around 11.25 and then buy the same stock of different again, because that way you have booked some profit which is tax-free. Now if I don't do that, next year if I book 5 lakhs profit, First 1 lakh is free.
+[00:11:30] **Speaker B**: So today you will book around 11.25 and then buy the same stock of different again, because that way you have booked some profit which is tax-free.
+Now if I don't do that, next year if I book 5 lakhs profit, First 1 lakh is free.
 
 [00:11:48] **Speaker C**: Next 4 lakh I'm getting taxed at 12%. But if I book 1 lakh this year, 1 lakh next year, like that every year for 5 years if I book 1 lakh, I'm not paying any tax.
 
 [00:12:04] **Speaker B**: No, it's okay.
 
-[00:12:05] **Speaker C**: Loss is fine. Loss I can carry forward. My profit I have to compulsorily pay tax. Next year, see, it is the same money, my money is not stopping. I am just helping the company grow. Otherwise, part of the company you have to give to the government when you pay tax. So, let us say I have 4 lakhs worth of stocks. It has become 5 lakhs this year.
+[00:12:05] **Speaker C**: Loss is fine. Loss I can carry forward. My profit I have to compulsorily pay tax. Next year, see, it is the same money, my money is not stopping. I am just helping the company grow.
+Otherwise, part of the company you have to give to the government when you pay tax. So, let us say I have 4 lakhs worth of stocks. It has become 5 lakhs this year.
 
 [00:12:33] **Speaker A**: What is the profit?
 
-[00:12:34] **Speaker C**: 1 lakh. And let us say it is long term. I book the profit, which is I will sell this 5 lakhs worth of units, I will get cash. Next time morning I will buy it back. How much stock I have? I still have 5 lakhs.
+[00:12:34] **Speaker C**: 1 lakh. And let us say it is long term. I book the profit, which is I will sell this 5 lakhs worth of units, I will get cash. Next time morning I will buy it back.
+How much stock I have? I still have 5 lakhs.
 
 [00:12:51] **Speaker B**: How much tax do I owe? 0.
 
-[00:12:55] **Speaker C**: Next year if it falls, it falls. It could have fallen from here also, it could have fallen from there also. Now the idea is every year I am at least and cash in that ₹1 lakh of profit, which I can do without paying tax. Otherwise, say 5 years later, your ₹4 lakhs becomes ₹8 lakhs. So how much is it? ₹4 lakhs profit. ₹1 lakh, uh, 1.2, 1.3, and then 3, I pay 12.5%. That will be around ₹37,500, uh, thousand, right?
+[00:12:55] **Speaker C**: Next year if it falls, it falls. It could have fallen from here also, it could have fallen from there also.
+Now the idea is every year I am at least and cash in that ₹1 lakh of profit, which I can do without paying tax. Otherwise, say 5 years later, your ₹4 lakhs becomes ₹8 lakhs. So how much is it? ₹4 lakhs profit.
+₹1 lakh, uh, 1.2, 1.3, and then 3, I pay 12.5%. That will be around ₹37,500, uh, thousand, right?
 
 [00:13:29] **Speaker B**: Yeah, so that much I'm paying.
 
@@ -170,7 +185,8 @@
 
 [00:15:05] **Speaker B**: So earlier, what is happening, so I just—
 
-[00:15:06] **Speaker C**: inflation, say you bought a property in 2000 and you sold it in 2010, 10 years passed, say your property actually became 3 times that your, uh, 20 lakh property becomes 60 lakhs. In how many years?
+[00:15:06] **Speaker C**: inflation, say you bought a property in 2000 and you sold it in 2010, 10 years passed, say your property actually became 3 times that your, uh, 20 lakh property becomes 60 lakhs.
+In how many years?
 
 [00:15:26] **Speaker B**: I'll make it 40 lakhs. Your 20 lakh property, what is the capital gain?
 
@@ -182,7 +198,10 @@
 
 [00:15:43] **Speaker A**: 1 lakh.
 
-[00:15:47] **Speaker C**: 2 lakhs, right? But what you say is, but there is inflation, that the 20 lakhs of that time was worth more than this, okay? I'm paying tax on interest also. So what the government used to allow earlier was, you can find out the rate the compounding rate for that year, indexation rate. So for example, from 2018 to 2023, your, uh, you can do 348 by 280, which is around 24% extra. Okay, so your original cost you can increase by 24% and assume that was your original cost and then pay again a —so there was an inflation adjustment that was available earlier, they took it up in this 2026.
+[00:15:47] **Speaker C**: 2 lakhs, right? But what you say is, but there is inflation, that the 20 lakhs of that time was worth more than this, okay? I'm paying tax on interest also.
+So what the government used to allow earlier was, you can find out the rate the compounding rate for that year, indexation rate. So for example, from 2018 to 2023, your, uh, you can do 348 by 280,
+which is around 24% extra. Okay, so your original cost you can increase by 24% and assume that was your original cost and then pay again a —so there was an inflation adjustment that was available earlier,
+they took it up in this 2026.
 
 [00:16:47] **Speaker B**: Yeah, because imagine things that have been bought in your brand for the period of time, right?
 
@@ -190,27 +209,36 @@
 
 [00:17:06] **Speaker B**: Now 1 litre of milk is ₹42.
 
-[00:17:09] **Speaker C**: So which means you have increase in itself is some 26 times. So the property by default should make 15-20 times, it should be more. Which means you bought something at ₹1 lakh, at least you can consider you bought it at some ₹16 lakhs or ₹18 lakhs. Now you sold at ₹1 crore, you minus at least 3 times. So, the inflation adjustment was available, there you put it. That is why I said this is just for your reference. Now, they made it flat, 12.5%. I will give that calculation here.
+[00:17:09] **Speaker C**: So which means you have increase in itself is some 26 times. So the property by default should make 15-20 times, it should be more.
+Which means you bought something at ₹1 lakh, at least you can consider you bought it at some ₹16 lakhs or ₹18 lakhs. Now you sold at ₹1 crore, you minus at least 3 times.
+So, the inflation adjustment was available, there you put it. That is why I said this is just for your reference. Now, they made it flat, 12.5%. I will give that calculation here.
 
 [00:17:45] **Speaker B**: Whenever you know about good things, you can just complete it. So, with our previous sessions, is there tax also?
 
-[00:17:57] **Speaker C**: Tax, earlier it was 10%. It was free. Was 20% after taxation. Earlier it was 20% after taxation. They removed the taxation and made flat. Now if you look at it, real estate and stocks have the same tax rate, 12.2%. But that one first 1 lakh off is just for, uh, this much, uh, stocks. If I'm not wrong, I'm not sure if they give it for medium stock.
+[00:17:57] **Speaker C**: Tax, earlier it was 10%. It was free. Was 20% after taxation. Earlier it was 20% after taxation. They removed the taxation and made flat.
+Now if you look at it, real estate and stocks have the same tax rate, 12.2%. But that one first 1 lakh off is just for, uh, this much, uh, stocks. If I'm not wrong, I'm not sure if they give it for medium stock.
 
 [00:18:28] **Speaker B**: Yeah, first one, 125 is free.
 
-[00:18:31] **Speaker C**: Then the other things like gold, silver, everything has become this. So earlier gold, silver, and other assets used to be taxed with inflation at 20%, and that was 2 years or 3 years. Now everything has come down to standard.
+[00:18:31] **Speaker C**: Then the other things like gold, silver, everything has become this. So earlier gold, silver, and other assets used to be taxed with inflation at 20%, and that was 2 years or 3 years.
+Now everything has come down to standard.
 
 [00:18:55] **Speaker A**: Yeah, it is different.
 
-[00:18:58] **Speaker C**: It is favorable for some, it is unfavorable for others. We had it for a very long time. Intercession would have reduced your tax outflow. But if you're like 8 years or 9 years, that is where the sweet spot is. If you have had something for more than 9, 8, 9 years, then the old scheme was better. Less than 8, 10 years, the new scheme is good.
+[00:18:58] **Speaker C**: It is favorable for some, it is unfavorable for others. We had it for a very long time. Intercession would have reduced your tax outflow.
+But if you're like 8 years or 9 years, that is where the sweet spot is. If you have had something for more than 9, 8, 9 years, then the old scheme was better. Less than 8, 10 years, the new scheme is good.
 
 [00:19:22] **Speaker B**: Then debt mutual fund, uh, slab rates. So only if you had had it before April 2024, I think so, at that time they still had long term.
 
-[00:19:39] **Speaker C**: So if you have old debt mutual fund or bonds, then you'll get this. Otherwise, all the new ones will be treated as short-term capital gain at slab rate, which means individual shareholder income at tax But there is still an advantage. It is treated as short-term capital gain, which means if you have a short-term capital loss, you can set it off. So, for example, you made 2 lakhs loss in stocks because market was going down. You have 1 lakh profit in that future month. You do not have to pay tax. You declare both of them, they will get settled.
+[00:19:39] **Speaker C**: So if you have old debt mutual fund or bonds, then you'll get this. Otherwise, all the new ones will be treated as short-term capital gain at slab rate,
+which means individual shareholder income at tax But there is still an advantage. It is treated as short-term capital gain, which means if you have a short-term capital loss, you can set it off.
+So, for example, you made 2 lakhs loss in stocks because market was going down. You have 1 lakh profit in that future month. You do not have to pay tax. You declare both of them, they will get settled.
 
 [00:20:26] **Speaker B**: So, what you will end up with? ₹1 lakh short-term capital loss, and that will carry forward.
 
-[00:20:35] **Speaker C**: Your net income suddenly became taxable because you show the income, the gain here and the loss there, and that is it.. So, all you have to do is sell. You have to remember, gain is recorded only when transaction completes. You have to sell your mutual funds and buy it. Or sell this and buy some tickets. Everything is almost similar, right? You can try some other same kind of a—
+[00:20:35] **Speaker C**: Your net income suddenly became taxable because you show the income, the gain here and the loss there, and that is it.. So, all you have to do is sell.
+You have to remember, gain is recorded only when transaction completes. You have to sell your mutual funds and buy it. Or sell this and buy some tickets. Everything is almost similar, right?
+You can try some other same kind of a—
 
 [00:21:14] **Speaker A**: equity. So while selling the debt, how does it make sense?
 
@@ -220,7 +248,9 @@
 
 [00:21:45] **Speaker B**: I have, I have invested 10 lakhs in debt mutual fund, okay, and I have invested 4-5 lakhs in equity. My debt mutual fund steadily grows.
 
-[00:21:56] **Speaker C**: So, say I have made 1 lakh profit, my 10 lakh has become 11 lakhs in debt mutual fund. Stocks are playing a little bit risky, that ₹5 lakh has become ₹4 lakh. Okay, now what do I— and I decide this is an opportunity because any day I sell my debt mutual fund, I'll have to end up paying tax, right? So what I'll do, I'll sell this, I'll sell that also. Here I made ₹2 lakh loss, here I made ₹1 lakh profit, and both— because both are in short term only,. So, what do I have?
+[00:21:56] **Speaker C**: So, say I have made 1 lakh profit, my 10 lakh has become 11 lakhs in debt mutual fund. Stocks are playing a little bit risky, that ₹5 lakh has become ₹4 lakh.
+Okay, now what do I— and I decide this is an opportunity because any day I sell my debt mutual fund, I'll have to end up paying tax, right? So what I'll do, I'll sell this, I'll sell that also.
+Here I made ₹2 lakh loss, here I made ₹1 lakh profit, and both— because both are in short term only,. So, what do I have?
 
 [00:22:31] **Speaker B**: I have made 1 lakh loss in short term.
 
@@ -228,7 +258,8 @@
 
 [00:22:44] **Speaker B**: So, now what do I have? I have 11 lakhs of debt mutual fund, which has become short term and it is right now there is no gain, gain is 0.
 
-[00:22:56] **Speaker C**: Here I had 2 lakhs of loss. That has also become zero loss because I've booked loss. Losses in my book, right, is carry forward. But it's a new purchase. It's a new purchase at 4 lakh rupees. Next year, say I make, uh, 2 lakhs profit.
+[00:22:56] **Speaker C**: Here I had 2 lakhs of loss. That has also become zero loss because I've booked loss. Losses in my book, right, is carry forward. But it's a new purchase.
+It's a new purchase at 4 lakh rupees. Next year, say I make, uh, 2 lakhs profit.
 
 [00:23:17] **Speaker B**: How much tax should I pay? Zero.
 
@@ -244,7 +275,8 @@
 
 [00:24:05] **Speaker B**: Audio.
 
-[00:24:13] **Speaker C**: Is it the same company? Okay, so my first position, if it is, is it that profit or loss matters? If you can't choose what transaction you want to say, I have, I've bought it 10 times, I have sold it 4 times, the first 4 will be set up in the max.
+[00:24:13] **Speaker C**: Is it the same company? Okay, so my first position, if it is, is it that profit or loss matters? If you can't choose what transaction you want to say, I have, I've bought it 10 times,
+I have sold it 4 times, the first 4 will be set up in the max.
 
 [00:24:37] **Speaker B**: That first 4 will be treated for this 4 choices.
 
@@ -262,15 +294,18 @@
 
 [00:25:31] **Speaker B**: So that you don't issues.
 
-[00:25:34] **Speaker C**: The benefits have to match, right? Long-term assets, lower tax rate. Short-term has a higher tax rate, so they don't allow you to match one with other. First thing is they'll match within this year because equity has different rate, non-equity has different rate.
+[00:25:34] **Speaker C**: The benefits have to match, right? Long-term assets, lower tax rate. Short-term has a higher tax rate, so they don't allow you to match one with other.
+First thing is they'll match within this year because equity has different rate, non-equity has different rate.
 
 [00:25:53] **Speaker B**: Regardless, they'll try to match within this year.
 
-[00:25:56] **Speaker C**: Once matching within this year is done,, then I can match it with previous year, whatever is unsettled, if that was a loss. If that was profit, anyway, I've already paid tax. So after this, we'll look at two, two things.
+[00:25:56] **Speaker C**: Once matching within this year is done,, then I can match it with previous year, whatever is unsettled, if that was a loss. If that was profit, anyway, I've already paid tax.
+So after this, we'll look at two, two things.
 
 [00:26:15] **Speaker B**: One, I'll show you some ETFs. Two, we will also look at some debt funds because we know how to read the equity funds right now.
 
-[00:26:23] **Speaker C**: If you go to value research, how to read the portfolio expense ratio, best month, worst month, all those things. And you can also look at the portfolio and you have that matrix where they show are you holding large cap, small cap, mid cap, pharma, pharmaceuticals. Like that you can see, get one of those.
+[00:26:23] **Speaker C**: If you go to value research, how to read the portfolio expense ratio, best month, worst month, all those things.
+And you can also look at the portfolio and you have that matrix where they show are you holding large cap, small cap, mid cap, pharma, pharmaceuticals. Like that you can see, get one of those.
 
 [00:26:44] **Speaker B**: So I will look at two samples.
 
@@ -280,11 +315,14 @@
 
 [00:27:04] **Speaker A**: Similarly, gold.
 
-[00:27:05] **Speaker B**: I'll also do one thing, I'll sort it by value so that I don't get things that have less— I want something which has enough money. So apparently today's most popular instrument was silver piece. Silver piece represents probably 1 gram or 0.5 silver weight at 225. Silver price— yeah.
+[00:27:05] **Speaker B**: I'll also do one thing, I'll sort it by value so that I don't get things that have less— I want something which has enough money.
+So apparently today's most popular instrument was silver piece. Silver piece represents probably 1 gram or 0.5 silver weight at 225. Silver price— yeah.
 
 [00:27:47] **Speaker A**: 10K.
 
-[00:27:48] **Speaker C**: So kg, 265,000. So this is around 229. So it will be around, uh, 1 gram almost. This is a beautiful So which means each unit of this ETF represents 1 gram of silver. So if you want to get invested in silver, this is your way of it. You can keep accumulating. But you may also be interested, what has silver been doing? Can we see the charts? Can we see the 200-day moving average?
+[00:27:48] **Speaker C**: So kg, 265,000. So this is around 229. So it will be around, uh, 1 gram almost. This is a beautiful So which means each unit of this ETF represents 1 gram of silver.
+So if you want to get invested in silver, this is your way of it. You can keep accumulating. But you may also be interested, what has silver been doing? Can we see the charts?
+Can we see the 200-day moving average?
 
 [00:28:32] **Speaker A**: Yes, sir.
 
@@ -304,7 +342,8 @@
 
 [00:29:37] **Speaker B**: it also has live charting if you want to see it.
 
-[00:29:39] **Speaker C**: So, it is decent enough for a starting. And TradingView also has become like the default charting app for most of the people who get charts. So, I am going to— okay, so this is what Silver has been doing for a a silver piece. You can do it.
+[00:29:39] **Speaker C**: So, it is decent enough for a starting. And TradingView also has become like the default charting app for most of the people who get charts.
+So, I am going to— okay, so this is what Silver has been doing for a a silver piece. You can do it.
 
 [00:29:58] **Speaker B**: So if this is confusing, I'll go and make a lighter—
 
@@ -354,11 +393,13 @@
 
 [00:33:20] **Speaker B**: Japanese rice merchants created it as a way to understand the auction of anything in a given period.
 
-[00:33:29] **Speaker C**: Auction means what? There is biasness and respectivity, and then settling on some value. So, the precursor to this is actually cars. Okay, this is a bar, this is, uh, it's a OHLC bar. Who can explain?
+[00:33:29] **Speaker C**: Auction means what? There is biasness and respectivity, and then settling on some value. So, the precursor to this is actually cars. Okay, this is a bar, this is, uh, it's a OHLC bar.
+Who can explain?
 
 [00:34:02] **Speaker B**: OHLC, open, high, low, close.
 
-[00:34:10] **Speaker C**: Okay, so the chart is from left to right. So the left side line is open, right side line is closed, top is high, bottom is touching. You see, let us look at this example. You see this bar? Open is 309, and I will keep it on this.
+[00:34:10] **Speaker C**: Okay, so the chart is from left to right. So the left side line is open, right side line is closed, top is high, bottom is touching. You see, let us look at this example.
+You see this bar? Open is 309, and I will keep it on this.
 
 [00:34:35] **Speaker B**: See, read this in the top. Open 340, high 360, low 250, close 250. This is basically represent— this is clear, right? We have colored the line based on X and the Y vector.
 
@@ -366,7 +407,8 @@
 
 [00:35:04] **Speaker B**: You didn't do finite So, don't correct profit loss.
 
-[00:35:08] **Speaker C**: Profit loss is very personal because I could have shorted it also. I could have bet that it should go down, so I would have made money if it had fell also. Price right now, price went up is all your fault.
+[00:35:08] **Speaker C**: Profit loss is very personal because I could have shorted it also. I could have bet that it should go down, so I would have made money if it had fell also.
+Price right now, price went up is all your fault.
 
 [00:35:34] **Speaker B**: This is low, this is high. So it's like a line, right?
 
@@ -384,5 +426,7 @@
 
 [00:36:30] **Speaker B**: Minister will come.
 
-[00:36:50] **Speaker C**: Opening is, markets are not operating all the time, so it is closed. When it opened, there was some new information available. So, open determines the impact of the information and close determines where people settle, like agree at that level. Highs and lows determine how much fight happened. Now, what will happen? Let us assume you're a dog, okay? And these extremes are the edges of your area where you fought with the other dog.
+[00:36:50] **Speaker C**: Opening is, markets are not operating all the time, so it is closed. When it opened, there was some new information available.
+So, open determines the impact of the information and close determines where people settle, like agree at that level. Highs and lows determine how much fight happened. Now, what will happen?
+Let us assume you're a dog, okay? And these extremes are the edges of your area where you fought with the other dog.
 

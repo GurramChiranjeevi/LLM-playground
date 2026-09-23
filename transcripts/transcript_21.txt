@@ -1,0 +1,177 @@
+# Transcript: New recording 21.m4a
+
+[00:00:00] **Speaker A**: How we are finding? Ah, but what is likely to happen tomorrow is what has happened today. Go by inertia. Default is inertia.
+Why are we saying that industry is showing growth, but they have been showing 10% every year, is not at the year 10% last year? On an average they have been with 10% and on average they are going up,
+so very likely they will go to 4 or 10% for the next year. It is not like it will, but you want default. Like if you get out of the subway, put your feet on the ground, it will likely stay there,
+it is not going to sink. But if it rains and there is mud and all, it will happen. But you have to go by what is likely to happen. And when you get quantitative evidence, you stop. Don't continue.
+Are you yesterday it didn't rain, so today it should not rain. If there is rain yesterday, at this time there was no rain, rain will stop.
+
+[00:01:06] **Speaker B**: Let's go.
+
+[00:01:07] **Speaker A**: Rain will stop is not a thing.
+
+[00:01:09] **Speaker B**: Rain has stopped, right?
+
+[00:01:12] **Speaker A**: You want evidence of prediction. Whatever The present should confirm the old data, only then make it repeatable. I said no 5 seconds. So this is a day.
+Let us look at— so today is a very nice positive day. You want to see what happened intraday? Go to 5 minutes. Okay. So May 4th, so today is here to here.
+So you see enough dips, enough prices, enough dips, enough prices, enough dips, enough prices, right? So market makers would participate in this region.
+They take here, buy here, sell here, buy here, sell here, buy here, buy here, buy here, sell here. So they can do lot of things, right? They are facilitating the transaction..
+And once the movement starts, they might not stop it. When the market makers do not come in, that is when you get rapid movement in one direction.
+Because market makers are sitting on the other side of the transaction. They are keeping their order book clean for every buyer, they are matching the seller. If they do not show up, what will happen?
+It will just run in one direction. That is when you get like this big moves. When it is just going up, right? Market maker say, I am not becoming checkmate, I will come in the middle.
+When two stones are grinding, don't put your hand in the middle, you will be checkmate. So, they will not come at that time. Whenever they settle, they will come to take the checkmate.
+
+[00:02:56] **Speaker C**: Rick? How these market makers are different from intermediaries?
+
+[00:03:03] **Speaker A**: Market makers have one and only objective, which is facilitate the transaction and take some amount of money out. They are not looking for big profits.
+Intraday traders have their own agendas. Intraday traders might want to say, I want to write from here to here, or I will wait for a break or try from here to here. So, they have their own agenda.
+Trading is a very broad category because in the day people could be trading many things. They could be going for a lot of small shots, which is called scalping.
+They could be going for swing, which is here to here, which is as a one side to another side. Like you see the— if I make a mark right here, You see this, I can make lines like this.
+So basically it is swinging up and down. So there are people who trade something called as a swing. They wait for a breakout and then go up, or wait for a pullback, and once the pullback is completed,
+they will go for the next strike. So they might have agendas like this.. So, there are many styles and varieties of how you want to profit from the situation, and accordingly you have a risk also you are taking.
+So, market intraday traders will be more this type, whereas market makers are facilitating a small transaction in a small duration. They generally do not try to hold something for a very long duration.
+It is very risky for them, because if the sentiment changes changes suddenly, right? See, uh, if market makers might be there for 5 paisa, 10 paisa, how will they make money?
+Yeah, 10 crores, 5 crores shares, they'll make enough money. 5 lakhs, 4 lakhs, they might make in 1 or 2 minutes, and they'll be having bots running on this. How does intraday player make money?
+
+[00:05:09] **Speaker B**: Space.
+
+[00:05:10] **Speaker A**: Maybe they'll want 20-30 points, in that they will make 10,000, 40,000, 50,000. Positional traders might want a largest move,
+want to capture one or two largest moves in a day and make their 3 lakhs, 4 lakhs, 5 lakhs profit. Everyone should know what they can afford to handle, their risk matters.
+With that huge number of stocks, if they say, hey, I will help you sell, I will help you sell something, I will buy I will tell you, sell it to you, and they get stuck on this wrong side.
+Their months and years could go in like minutes. They will have to take so much loss. So they stick to their own agenda. Intraday players are just players who don't want to take anything home.
+Their positions are closed within the day. There are people who hold for weeks. Those people do not take anything home on Friday. So, you will see typical behavior on a Friday.
+So, by the way, this Friday was May Day, right? So, Thursday was the last. So, the market was short and then on Thursday it recovered, because people did not want to take the short.
+So, they did not know what one will do on the weekend. So, they did not want the risk.. So, there are people who hold things just within the weekly timeframe, give up whatever they have by Friday and leave.
+And these mutual funds, they will get money most of the time, like whenever salary comes, the SIP is coming, right. So, they will get money by the 1st or 5th of the month.
+So, their purchases will be around that time. So, you may see markets going up just around that time, because it is like So much money flowing in like water.
+When water flows, even the dirt, paper, everything will go up, right? So even Kachra stocks will go up because so much money is coming in, everything will go up.
+First, you have to figure out when the SIP flows come in and when the mutual funds come in.— you can, yeah, so you can choose when your SIP goes in.
+You can choose which day, or you can purchase it yourself lump sum instead of doing an SIP. You build a discipline saying every month I'll invest, but I'll not tell the market when I'll invest,
+that I'll go in the middle or end of the month where people might not— where the bigger ones are not investing, that time I might go. Yeah, but you didn't prove proof.
+You have to go historically and see if it made sense or not. If you try to be lucky, you will be unlucky. The idea is your system should prevail.
+It is easy, it is not hard to be lucky once, but it is hard to be lucky every time. So, bad luck will handle your good luck and then cancel with each other.
+So, we have looked at one silver We also looked at candle charts, how they are, how do they work, right? And we already talked about 200 EMA, 200 moving average. Yeah, ask me.
+
+[00:08:25] **Speaker C**: What would happen while market players were facilitating that transaction? What would happen if the market players were facilitating the transaction?
+Is it important to give a convenient price? They couldn't find the—
+
+[00:08:42] **Speaker A**: when you break their confidence is when this happens. So this is the 5-minute candle. Each one is a 5-minute, okay? It went from 1,400 to 1,408. This went up 8 rupees in 5 minutes.
+Someone is left holding a lot of bag of potatoes. Like the music is going on, someone is left, and then they have to run through it. And this is what happens.
+Until then it was quietly going like this, suddenly it will crash.
+
+[00:09:19] **Speaker C**: So, eventually they will make loss from that.
+
+[00:09:22] **Speaker B**: They will.
+
+[00:09:22] **Speaker A**: They will make a profit somewhere else, but they have stop losses, they have bots, they have high frequency machines trading, so they will likely cover up quickly at a smaller lot,
+then it won't be good for them. And by the way, for all the people who are like programming, like in writing games, bots, a lot of brokers give APIs nowadays.
+You do not have to go to their website and press by yourself. You can User API and fire it from your program. They have RESTful endpoints.
+You have— you do an authorization, you will get a session key, use that, you can do buy and sell from program, from JavaScript, from HTML. So you can write programs to buy and sell also.
+The data is also available on as APIs. We can get the data, understand, figure out where you have an advantage, fire an order, cover an order. You can do all those things programmatically also.
+
+[00:10:32] **Speaker B**: Use AI and make profits. Invest money, it will give you.
+
+[00:10:46] **Speaker A**: Okay, coming back. So this is silver in here. That was the example. Let us look at— then there is gold base. That is for gold.
+Liquid base is that instrument you can buy, and liquid base is also that. These two are different. Liquid base is dividend oriented, which means every day, daily dividend, not even monthly or weekly or yearly,
+daily. Every day there will be some profit. That profit will come as, on the next day as units. Each, so unit will always be ₹1,000. So, you will get a fraction of a unit next day after tax..
+So, that is why you want growth-oriented. Liquid case is a growth-oriented debt strategy. So, they would have started at ₹100, now they are ₹130, which means all the profit is getting accumulated in it.
+So, if you want to go and buy debt, you can go just buy liquid case and sell whenever you want. So I can go here, show you how Liquid Case has been behaving month on month. It is zero loss, uh, launch.
+Okay, zero loss. You see this straight line? Yeah, that is how it is behaving. Do not get too excited. It went from 111 to 130 from November. But you can buy more. Because it is debt.
+Underlying, they would have bonds, corporate bonds, sorry, Government of India bond or something. They would have the safety of the instrument and that is going up.
+
+[00:13:02] **Speaker B**: Biker, bikers.
+
+[00:13:03] **Speaker A**: I'll ask a question also from that. I'll ask a question, whatever you're asking to, to you only, you know, language. What is the expense ratio? 0.28, very cheap.
+Uh, let's look at the return graph. This is the return graph and portfolio. Cash equivalent. So, let us look at what the cash equivalent and a sovereign bond.
+Cash equivalent is they probably have very low duration bonds. You figure out, see here Reserve Bank of India, it is 5%. What about the risk?
+They probably have money that they have put in savings bank or in a fixed deposit and they would have given units. We can also make this, no? Say I will figure out which bank is giving me the best interest rate.
+I will take money from all of you, I will go invest in that, I will give you units to everyone and whatever is the price of that, I will divide by that, say that is the value.
+So, high credit quality, very low risk. And not only that, you can also tell what is expected. You see this, intermaturity, which means they have bonds and their average maturity is 0.01 years. How much is that?
+3 days, sir. Around 3 days, maybe, or 3 hours. So they, they, they are maturing with different interest. If you look closely there, do you see any interstitial fluctuation in the hydrogen bond?
+Remember, it has to vary when you do the bond calculation. It I have a 20-year bond, then interest falls or rises, the bond price will go up or down.
+But if tomorrow I have to get the bond, there is no interest coming from there. So, only the interest is already priced in the bond price itself. So, it has very low interest rate effect.
+So, it means I can take it as that, no future interest. So, whatever we are holding, it is expected to give 6% per year plus. You can just go buy in the exchange and use it.
+
+[00:16:28] **Speaker B**: So that Nifty Bees—
+
+[00:16:29] **Speaker A**: Nifty Bees is a Nifty 50 ETF. So you want to buy Nifty 50, you can go buy.
+
+[00:16:40] **Speaker B**: Liquid case.
+
+[00:16:47] **Speaker A**: Then Tata Silver. Tata has its own silver ETF, that is, and they are ₹23, that is 6 paisa. So that is even 1/10th of a gram. This is 1 gram, this is 1/10th of a gram.
+SBI Gold, this is State Bank of India's ETF, gold ETF. So there are multiple players, Tata Gold, So there are a lot of— so it's a, it's a very big market.
+So if, if you have a brokerage account, you can trade with this. You don't need a brokerage account to buy or sell mutual funds. You can buy directly from the company.
+But if you have a brokerage account, you can buy and sell. Mutual fund is the middle of the day. Otherwise, there you can only do it end of the day, right?
+So how the mutual fund typically works is you have to place your order by 2 o'clock or something, then end of the day they'll figure out what is the NAV,
+and next day morning they'll give you those many units as per the NAV. You want to sell today, how do you adjust your units? You can't say I want to sell for this amount because amount you don't know.
+You have to go at night. If I say I want to sell for— I want to sell my 100 units at night, they will figure out what is the value and in 2 days the money will come to your account.
+But next day morning they will take the units, 2 days later money will come to your account. You don't want all that janja, but you want to deal as is when you see the price,
+you can do the— so I could have gone here and let us say I search for Nifty 50 Index Fund. So we have this HDFC Nifty 50. I could have gone this way and, uh, ₹233.
+I could have bought this, but I can only buy it end of day. Place an order, I'll get end of day exit. But in the middle of the day, you see there's a panic and you want to go buy, you can't.
+You place an order, by the time your order gets processed at night, the market would have recovered. You will not get that. Whereas I can do that with Nifty Bees. Let us look at Nifty Bees chart.
+Okay, I'll show 5-minute chart. Okay, you see this? Now I'll show you Nifty 50 5-minute chart. This is Nifty 50 5-minute chart, and have a look how it looks.
+
+[00:19:41] **Speaker B**: Fine, right?
+
+[00:19:43] **Speaker A**: This is today's 5-minute chart, and I'll show you Nifty Bees 5-minute chart. This is almost same, right? So you have an index kind of a behavior in a, in an exchange traded fund.
+So you are saying that, hey, I want to learn trading, I want to invest, I want to get the units or sell the units whenever I want, but I don't want the risk of a stock which is so concentrated in one thing.
+Happening. So you can trade in Nifty or invest in Nifty, and you can have a— you can sell whenever you want. You can copy this, so you can build your own strategies and just trade in Nifty.
+It's liquid enough, you can exit whenever you want. Great. Uh, I— there was a question that was being asked. I missed it. I'll come back to that now. Who was asking the question?
+
+[00:20:50] **Speaker B**: Okay, this was Dave.
+
+[00:21:00] **Speaker A**: Okay, now Someone ask the question and someone answer the question.
+
+[00:21:04] **Speaker B**: Ask the question.
+
+[00:21:09] **Speaker A**: Why this na? Why this? No, no, why this, why this, why this, why this, right? Because what we have done here, Liquid case, liquid piece is dividend-oriented, stay away from it.
+So it's 0 by ETF or something. It's a 1-day ETF, so whatever they're holding is measuring 1 day, they're holding at that level. So you saw this, this is the end of day price.
+
+[00:22:00] **Speaker B**: Each one is—
+
+[00:22:01] **Speaker A**: they are not showing candle, no, they are showing end of day price. That's why straight line. So I go here, I take the candle chart out, make the line chart, it will look like this.
+Fine na?
+
+[00:22:14] **Speaker B**: Correct?
+
+[00:22:15] **Speaker A**: How does it look within the day? It looks like this. And the same thing, I can make candle chart, it look like this. Same thing, I'll go into day chart.
+This is the day candle, by the way. Each one is a day candle. Okay, who can tell me why this is happening? And then you hang these people.
+
+[00:22:45] **Speaker B**: This is what happens when—
+
+[00:23:01] **Speaker A**: what?
+
+[00:23:01] **Speaker B**: Market makers.
+
+[00:23:03] **Speaker A**: If market makers are not present, there is no one on the other side of your trade. So, you deal with people like us and be. Then there will be people with money expecting.
+You urgently want money. What are the different kinds of market orders? You know, limit, market, stop loss. You want money, people are waiting at 1 paisa less, 2 paisa less, 5 paisa less.
+You are saying, okay, fine, take 5 paisa, I want my money. You put. What will they do? They will take out that order, it will go down because you put market order,
+people will take it at the low and then put their order back. So when market makers are not present, then you are left to the— whoever is trying to be on the other side. Market makers keep it smooth.
+So market makers will be in like heavy, uh, things are very important. Reliance, LTFC. These are all like big instruments, right? So they'll be there.
+These things, when market makers are not present, then you will have this sudden dips. So if you want, you can place an order and keep it there every day. Maybe you'll get it at a cheap price.
+Not just this, I'll also show you, uh, liquidities. 7:48. Lot of days nothing will happen. Some days some desperate person will say, I want at any price. You catch it, you'll make easy ₹10, ₹20.
+And you know it's worth ₹1,000 at the end of the day, so you're not worried you'll make a loss. That person is desperate. Just like you go to your cricket matches, IPL matches, you buy water at ₹100, ₹200.
+They give you a packet just opportunity cost. They are doing the same thing here. So, you can place an auto send bid like catching fish.
+Someone desperate will come and— so, you understand why these spikes are coming? And that is why you should tag the market makers. The market makers whose only job is to just buy and sell to everyone,
+if they do not exist, Because of this, you have really bad deals when you want to trade in the market. Okay, now we will— oh, some 15. Okay, I will show you one last debt mutual fund, low duration.
+
+[00:26:04] **Speaker B**: Okay, we will look at a sample debt mutual fund, NDS low duration fund.
+
+[00:26:13] **Speaker A**: Expense ratio of 1%. They look at their return like this straight line, almost straight. Okay, let's look at their portfolio. Ah, AAA, this is the rating of whatever they are holding.
+73%, AA 14%. This AAA means very good quality bonds or papers. AA good quality. So sovereign means government. So these are all government bonds. Cash minus 1.5%, which means they have taken loan.
+People wanted money, they didn't want to sell their bond, so they taken loan for short duration. Yeah, you can just go to credit rating and look at bonds ratings, you will figure out.
+Just ask that, so AAA is very high trusted. You will figure out here, if you see here, government security, National Bank for Agriculture, S-Bank. See, S-Bank is A1+, Power Finance Corporation is AAA.
+So, S-Bank has lower quality They may or may not pay back your little money, but power finance is backed by the government. Indian Railway Finance Corporation is backed. Government is the topmost.
+If government does not pay your money, you are in more trouble than this. Yeah, they have all these schemes. Credit rating information services.
+So, they look at— they study the organization and say how likely they have been to pay you back interest or principal, etcetera. They look, they will study and then they will give a rating.
+Everyone who wants to borrow from the market has to come with a rating these days and that will go along like your bonds and other things. Rating. So you know, is it trustable, how trustable, etc.
+And let us look at what else. So how many they have? 179 securities, which means 179 different types of bonds they have. So diverse. And these guys don't have— we have 2 years here. So, number of securities, 37.
+There are 37 different types of bonds. Average maturity, 0.15, which means whatever they have, we'll make you in 9 months, 9 months, right. So, why does it matter?
+If they have low maturity bonds, they are going to be affected by interest rate, ups and downs for that particular bond. You will not lose a lot of money in something like that,
+because maximum one interest rate will be there. Whereas, if you take long duration, then it will benefit and hurt both ways. Yield to maturity is 7.45. So, whatever they have, it will give you 7.45.
+So, if you want to create a bond portfolio, then you already—
+
+[00:29:56] **Speaker B**: right, that will be later.
+
+[00:29:58] **Speaker A**: Let us start packing and unpacking this.
+

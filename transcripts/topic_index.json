@@ -1,0 +1,513 @@
+[
+  {
+    "topicName": "Archimedes and Leverage",
+    "file": "transcript_1.txt",
+    "startLineNumber": 7,
+    "endLineNumber": 22,
+    "description": "Archimedes lever principle used as an analogy for financial compounding. Explains fulcrum, pulleys, M1L1=M2L2 formula, and how small consistent effort (like saving) can move large outcomes over time."
+  },
+  {
+    "topicName": "Simple Interest",
+    "file": "transcript_1.txt",
+    "startLineNumber": 73,
+    "endLineNumber": 323,
+    "description": "Introduction to simple interest as a baseline concept, contrasted with compound interest. Interest calculated only on principal without reinvestment."
+  },
+  {
+    "topicName": "Jamindar and Money Lending",
+    "file": "transcript_1.txt",
+    "startLineNumber": 7,
+    "endLineNumber": 22,
+    "description": "Jamindar analogy explaining how exponential debt traps work. Historical context of landlords lending at compounding rates, leading to bonded labor across generations. Used to illustrate the dark side of compound interest for borrowers."
+  },
+  {
+    "topicName": "Compound Interest",
+    "file": "transcript_1.txt",
+    "startLineNumber": 23,
+    "endLineNumber": 30,
+    "description": "Core compound interest formula: A = P(1 + r/100)^n. Explains compounding frequency (annual, quarterly, monthly), how more frequent compounding yields more, reverse calculation to find interest rate from final amount, and why Einstein called it the 8th wonder."
+  },
+  {
+    "topicName": "Warren Buffett and Value Investing",
+    "file": "transcript_1.txt",
+    "startLineNumber": 31,
+    "endLineNumber": 44,
+    "description": "Warren Buffett biography and investment philosophy. Berkshire Hathaway stock price growth (300 to 7 lakh dollars, 2353x). Value investing: buying strong businesses at undervalued prices, holding long term, waiting for market panics to buy cheap."
+  },
+  {
+    "topicName": "Valuation",
+    "file": "transcript_1.txt",
+    "startLineNumber": 45,
+    "endLineNumber": 115,
+    "description": "What valuation means in investing: comparing current market price to intrinsic/book value. Berkshire Hathaway as umbrella holding company. How to decide if a company is over or undervalued. XIRR for evaluating insurance policies (LIC money-back 3.14% return). Insurance is not investment."
+  },
+  {
+    "topicName": "Fixed Deposit",
+    "file": "transcript_1.txt",
+    "startLineNumber": 116,
+    "endLineNumber": 153,
+    "description": "Fixed deposit mechanics: principal locked for a term, interest rate promised upfront. Savings bank (3-4%) vs FD (6-8%) vs loans (10-12%). Penalty on early withdrawal. Strategy of opening many small FDs instead of one large FD for liquidity flexibility."
+  },
+  {
+    "topicName": "Recurring Deposit",
+    "file": "transcript_1.txt",
+    "startLineNumber": 154,
+    "endLineNumber": 170,
+    "description": "Recurring deposit as opening a new FD every month. Interest accumulates on growing principal. FV function in spreadsheets to calculate maturity amount. Example: Rs 1000/month at 8% for 5 years = Rs 74,967."
+  },
+  {
+    "topicName": "Future Value and FV Function",
+    "file": "transcript_1.txt",
+    "startLineNumber": 171,
+    "endLineNumber": 222,
+    "description": "FV spreadsheet function: rate, number of periods, payment amount, present value. Applied to RD, EPF, insurance policies. Concept of passive income: investing for 8-9 years at 8% to generate monthly interest equal to monthly contribution forever."
+  },
+  {
+    "topicName": "Employee Provident Fund (EPF)",
+    "file": "transcript_1.txt",
+    "startLineNumber": 223,
+    "endLineNumber": 323,
+    "description": "EPF structure: 12% employee + 12% employer contribution on basic salary. Managed by EPFO. Interest compounded monthly, credited annually. Tax treatment in old vs new regime. Withdrawal rules: 75% cap, allowed for housing, marriage, education, illness. Employer contribution is insurance expense reducing their tax."
+  },
+  {
+    "topicName": "Public Provident Fund (PPF)",
+    "file": "transcript_1.txt",
+    "startLineNumber": 223,
+    "endLineNumber": 242,
+    "description": "PPF open to all including self-employed. Up to Rs 1.5 lakh/year, compounded annually at 7-8%. 12-16 year lock-in. Returns are fully tax-free. Available in nationalised and private banks. Cannot withdraw before maturity; loans against PPF allowed. Meant for long-term savings habit."
+  },
+  {
+    "topicName": "Liability",
+    "file": "transcript_1.txt",
+    "startLineNumber": 243,
+    "endLineNumber": 323,
+    "description": "Loans as liabilities: interest is the rent paid on borrowed money. Bank margin between FD rate and loan rate (2-3%). Compound interest on loans: banks reset terms every period rather than charging interest on interest. Difference between asset side and liability side of personal balance sheet."
+  },
+  {
+    "topicName": "Obsidian Note-Taking Tool",
+    "file": "transcript_2.txt",
+    "startLineNumber": 1,
+    "endLineNumber": 49,
+    "description": "Demo of Obsidian markdown note-taking app. Features: backlinks, graph view, canvas for diagrams, daily notes templates, inbox capture, table view, local-first storage. Bullet Journal concept. Habit of reviewing notes to make them actionable. Recommended for developers who want distraction-free note-taking."
+  },
+  {
+    "topicName": "Compound Interest Recap",
+    "file": "transcript_2.txt",
+    "startLineNumber": 50,
+    "endLineNumber": 56,
+    "description": "Quick recap of compound interest from previous session. At 8% interest, 8 years and ~8 months to get back the same amount as monthly contributions. Doubling in 14 years. Transition to housing loans and EMI."
+  },
+  {
+    "topicName": "EMI and Housing Loan",
+    "file": "transcript_2.txt",
+    "startLineNumber": 78,
+    "endLineNumber": 116,
+    "description": "How EMI works: each payment covers both principal and interest. In early EMIs 99% is interest, in final EMI almost all is principal. 20-year Rs 50 lakh loan at 45,000 EMI example. Amortization table: principal reduces slowly initially, accelerates toward end. Prepayment reduces EMI count significantly. Paying Rs 1000 extra per month saves 14 EMIs."
+  },
+  {
+    "topicName": "Future Value of Housing Loan",
+    "file": "transcript_2.txt",
+    "startLineNumber": 117,
+    "endLineNumber": 152,
+    "description": "Using FV formula to determine break-even sale price of property after 20-year loan. Rs 60 lakh loan at 10% for 20 years: total paid Rs 1.38 crore. Must sell at Rs 1.38 crore to make profit. Shows that EMI covers interest heavily in early years and little principal."
+  },
+  {
+    "topicName": "Income and Loan Eligibility",
+    "file": "transcript_2.txt",
+    "startLineNumber": 153,
+    "endLineNumber": 161,
+    "description": "Banks use net take-home salary (not CTC) to determine loan eligibility. Total EMIs should be 40-50% of net income. Existing loans, credit score (CIBIL), job stability, employer stability all factor in. Banks want repayment capacity, not just income proof."
+  },
+  {
+    "topicName": "Loan Eligibility and Real Estate",
+    "file": "transcript_3.txt",
+    "startLineNumber": 1,
+    "endLineNumber": 92,
+    "description": "Detailed loan eligibility rules. Real estate requires 4.3% annual growth to break even on a 10% loan. Bangalore most consistent (IT demand), Delhi stagnation, Pune slow-steady. Residential rental yield only 2.5-3% vs 10% loan rate — tenant and bank both benefit more than owner. Rent vs buy analysis: portability advantage of renting early in career. Rs 60 lakh house generates Rs 15k rent = 2.5% return after expenses."
+  },
+  {
+    "topicName": "Insurance and XIRR",
+    "file": "transcript_4.txt",
+    "startLineNumber": 1,
+    "endLineNumber": 57,
+    "description": "XIRR function for irregular cash flows: give cash flow array and date array, get annualised rate of return. LIC money-back policy analysis: 20 years, Rs 36k premium/year, 20% cashback at 5th/10th/15th year, 40% + bonus at end. XIRR = 3.14% — a poor investment. LIC Jeevan Anand 25-year policy: XIRR = 6.45%. Both are poor investments compared to mutual funds or FDs."
+  },
+  {
+    "topicName": "Term Life Insurance",
+    "file": "transcript_4.txt",
+    "startLineNumber": 58,
+    "endLineNumber": 121,
+    "description": "Term insurance as pure risk cover: pay Rs 10-15k/year, get Rs 1 crore coverage for 30 years, no payout on survival. Much cheaper than endowment/money-back policies (Rs 36k/year for Rs 5 lakh cover). Rule: insurance is a bet you want to lose. Separate insurance from investment. Coverage should be 3-4x annual income. Stop term insurance once loan/risk period ends."
+  },
+  {
+    "topicName": "Money and Barter System",
+    "file": "transcript_7.txt",
+    "startLineNumber": 3,
+    "endLineNumber": 102,
+    "description": "Why money exists: solves the double coincidence of wants problem in barter. Money provides liquidity, portability, ability to transact outside one's village/community. Historical context of ostracisation in barter economies. Currency gives freedom to exit unfair relationships (Jamindar analogy). Introduction to financial concepts through this lens."
+  },
+  {
+    "topicName": "Bonds and Accounting",
+    "file": "transcript_7.txt",
+    "startLineNumber": 103,
+    "endLineNumber": 242,
+    "description": "Bonds as fractional loans: company splits large borrowing into tradeable bond units. Bond structure: face value Rs 1000, coupon rate (interest), maturity date. Exchange listing for liquidity. Demat account holds bonds digitally. ISIN number, last traded price, yield calculation. Why bonds trade at premium or discount vs face value. Accounting thumb rules for personal finance."
+  },
+  {
+    "topicName": "EMI and Share Basics",
+    "file": "transcript_7.txt",
+    "startLineNumber": 243,
+    "endLineNumber": 388,
+    "description": "How EMIs are structured and calculated. Shares as ownership in company profits (equity). Why companies list on stock exchanges. IPO process, rights issue. Difference between debt (bond = loan partner) and equity (share = profit partner). Warren Buffett's story and value investing. LIC as India's largest institutional investor."
+  },
+  {
+    "topicName": "Interest Rate and Investing",
+    "file": "transcript_7.txt",
+    "startLineNumber": 389,
+    "endLineNumber": 456,
+    "description": "How interest rates affect investment decisions. Inflation impact on purchasing power. Expense ratio in mutual funds. India's growth story: telecom, healthcare, infrastructure. Long-term investing mindset vs short-term speculation. Diversification across asset classes."
+  },
+  {
+    "topicName": "RBI Rates and Repo Rate",
+    "file": "transcript_8.txt",
+    "startLineNumber": 3,
+    "endLineNumber": 19,
+    "description": "RBI rate structure: repo rate (6.5%) = rate at which banks borrow from RBI, reverse repo rate = banks park excess cash with RBI, MSF (Marginal Standing Facility) for emergency borrowing, Cash Reserve Ratio (CRR) = % of deposits banks must keep with RBI with no interest. How RBI uses these to control inflation and money supply."
+  },
+  {
+    "topicName": "Loan and Bond Pricing",
+    "file": "transcript_8.txt",
+    "startLineNumber": 20,
+    "endLineNumber": 41,
+    "description": "How bank loan rates are built on repo rate plus bank margin (1-2%). Bond yield calculation: coupon / last traded price. Example: Rs 400 face value bond trading at Rs 414, coupon Rs 31.65 = 7.63% yield. Private bonds trade at premium over RBI rates to compensate for risk."
+  },
+  {
+    "topicName": "Interest Rate and Bond Relationship",
+    "file": "transcript_8.txt",
+    "startLineNumber": 42,
+    "endLineNumber": 96,
+    "description": "Inverse relationship between bond prices and interest rates. When RBI raises rates, existing bond prices fall (new bonds offer better yield). Government of India bond example: Rs 100 face value, trading at Rs 94, maturing 2050. Yield-to-price calculation. Market forces determine bond prices through trading. Why bonds trade above or below face value."
+  },
+  {
+    "topicName": "Investing and RBI Bonds",
+    "file": "transcript_8.txt",
+    "startLineNumber": 97,
+    "endLineNumber": 164,
+    "description": "Borrowing directly from RBI via bonds vs bank FD. Block deals: large mutual funds selling crores of stock off-market to avoid moving the market. Market depth, order book, how institutional investors operate. Liquidity of exchange-listed instruments. Bulk deals and SEBI transparency requirements."
+  },
+  {
+    "topicName": "Bond Valuation",
+    "file": "transcript_8.txt",
+    "startLineNumber": 165,
+    "endLineNumber": 203,
+    "description": "Practical bond valuation: comparing coupon rate against current market interest rates. Example: 2030 bond at Rs 100 face value, Rs 5 coupon (5%), current rate 5.5% — bond should trade below Rs 100. Building a valuation table for multiple bonds. Fair value = coupon / prevailing market rate."
+  },
+  {
+    "topicName": "Income Tax on Stock Transfers",
+    "file": "transcript_8.txt",
+    "startLineNumber": 204,
+    "endLineNumber": 216,
+    "description": "Off-market transactions: demat-to-demat transfer between family members. Income tax TCS implications even for family transfers. Difference between market transfer (buy/sell on exchange) and off-market transfer (requires physical slip, treated as transaction for tax purposes)."
+  },
+  {
+    "topicName": "Asset Classes",
+    "file": "transcript_8.txt",
+    "startLineNumber": 217,
+    "endLineNumber": 261,
+    "description": "Overview of asset classes: stocks, bonds, gold, real estate, cash. Stocks as ownership in profit (not zero-sum). How stocks generate wealth even if price doesn't move (through dividends and retained earnings). Risk vs return tradeoff across asset classes."
+  },
+  {
+    "topicName": "Share and Equity Introduction",
+    "file": "transcript_8.txt",
+    "startLineNumber": 262,
+    "endLineNumber": 283,
+    "description": "Transition to the equity world. Share = unit of ownership in company. Equity gives proportional claim on profits (dividends) and growth. Introduction to stock market as the mechanism for buying and selling ownership stakes in businesses."
+  },
+  {
+    "topicName": "Share Order Matching",
+    "file": "transcript_10.txt",
+    "startLineNumber": 3,
+    "endLineNumber": 20,
+    "description": "How stock orders are matched in an exchange. Price queue and time queue within the same price. Partial order fills — remaining shares stay in queue. Market order vs limit order. Real-time example: 80 shares filled from one seller, 20 from another. Orders are not instantly executed, they are enqueued."
+  },
+  {
+    "topicName": "Stop Loss and Stock Orders",
+    "file": "transcript_10.txt",
+    "startLineNumber": 21,
+    "endLineNumber": 48,
+    "description": "Stop-loss order: hidden until trigger price is hit, then becomes active. Block deals: large institutional sellers (mutual funds with 50 crore Reliance stock) coordinate off-market to avoid crashing price. SEBI rules: must still route through exchange. How elephants (big players) move in the market and leave footprints in the order book."
+  },
+  {
+    "topicName": "Asset Transfer and Equity",
+    "file": "transcript_10.txt",
+    "startLineNumber": 49,
+    "endLineNumber": 79,
+    "description": "Transferring shares between demat accounts: market route vs off-market slip. Family transfers taxed as transactions. Summary of bonds (loan partnership) vs stocks (equity partnership). Listing provides liquidity and trust. Bond price moves with interest rates — demonstrated on NSE. How to read Reliance intraday chart and market depth."
+  },
+  {
+    "topicName": "Stock Basics and Ratios",
+    "file": "transcript_12.txt",
+    "startLineNumber": 3,
+    "endLineNumber": 8,
+    "description": "Fundamental stock ratios using screener.in. Share price vs market cap. Book value (total assets minus liabilities per share). Dividend yield. EPS (Earnings Per Share) = profit / number of shares. Price-to-Earnings (PE) ratio = share price / EPS. How to compare companies using PE: Reliance PE 24, ONGC PE 10. Savings bank PE equivalent = 25 (at 4% interest)."
+  },
+  {
+    "topicName": "Moving Average and Stock Performance",
+    "file": "transcript_12.txt",
+    "startLineNumber": 9,
+    "endLineNumber": 65,
+    "description": "200-day moving average as key indicator: stocks below 200-day MA are in annual downtrend, avoid them. Moving average analogy: student's average test score as trend indicator. Don't try to catch the bottom — wait for evidence of recovery. Lower highs and lower lows pattern = downtrend. Tesla example: $38 in COVID to $480. Volume importance: high volume validates price moves."
+  },
+  {
+    "topicName": "Balance Sheet and P&L",
+    "file": "transcript_12.txt",
+    "startLineNumber": 66,
+    "endLineNumber": 124,
+    "description": "Reading a company's balance sheet and P&L on screener.in. Quarterly and annual financial data publicly available. Profit and loss statement: revenue, expenses, net profit. Balance sheet: assets, liabilities, equity. Why PE ratio needs context: performance relative to history and peers. Fundamental analysis vs technical analysis. Story vs statistics: look at data not CNBC narratives."
+  },
+  {
+    "topicName": "Asset and Equity Investing",
+    "file": "transcript_12.txt",
+    "startLineNumber": 125,
+    "endLineNumber": 201,
+    "description": "Asset class risk and return: equity as ownership in business value. Equity investing as long-term wealth creation. Why you take a bet in markets. Combining fundamental (balance sheet) and technical (moving average) analysis. Mutual funds as an alternative to direct stock picking. Introduction to portfolio construction concepts."
+  },
+  {
+    "topicName": "Stock Screening and Equity",
+    "file": "transcript_14.txt",
+    "startLineNumber": 3,
+    "endLineNumber": 8,
+    "description": "Building a stock screener query for small-cap companies using Atlas/screener.in. Filters: debt-to-equity < 0.5, interest coverage > 3, promoter holding > 40%, pledge share < 10%, positive operating cash flow in last 5 years. Market cap Rs 1000-5000 crore. Result: 57 companies shortlisted from 5000+. Purpose: remove garbage first, then study quality."
+  },
+  {
+    "topicName": "Loan Against Security (LAS)",
+    "file": "transcript_14.txt",
+    "startLineNumber": 9,
+    "endLineNumber": 33,
+    "description": "Pledging shares or bonds to get a loan without selling. Banks offer up to 50% of equity value or 80-90% of debt value as overdraft. Pay interest only on amount withdrawn. Rich people use this to avoid selling stocks (no tax event, no loss of ownership). If stock price falls, bank may call for more collateral or sell pledged shares. Rate: 8-15% annualised."
+  },
+  {
+    "topicName": "Asset, Cash Flow and Expense Management",
+    "file": "transcript_14.txt",
+    "startLineNumber": 34,
+    "endLineNumber": 117,
+    "description": "Why rich hold stocks forever and pledge instead of selling (avoids capital gains tax). Crisil credit ratings: AAA, AA, A for bonds — determines how much can be borrowed against them. Cash flow is more important than profit — Monopoly analogy. FD-backed loan: pledge your FD, get loan at FD rate + 1-2%. Small-cap company hotel/pump/energy sector examples from screener query results."
+  },
+  {
+    "topicName": "Cooperative Societies and Loan",
+    "file": "transcript_15.txt",
+    "startLineNumber": 3,
+    "endLineNumber": 28,
+    "description": "Warning about cooperative societies offering 1-2% higher interest than banks. They have less regulatory oversight and political affiliations. If something goes wrong, depositors take the hit. Banks have more checks and balances. Always ask: how can they afford to pay more? Introduction to how to think about risk when someone offers higher returns."
+  },
+  {
+    "topicName": "Mutual Fund Introduction",
+    "file": "transcript_15.txt",
+    "startLineNumber": 29,
+    "endLineNumber": 34,
+    "description": "What is a mutual fund: a money manager pools money from many investors, makes decisions on buying/selling stocks/bonds. Investors get units in return. Fund manager + research team make all decisions. New Fund Offer (NFO) is when a mutual fund opens to public subscriptions (like IPO for MF). No incentive to buy at NFO — price won't differ from day after."
+  },
+  {
+    "topicName": "Active vs Passive Mutual Funds",
+    "file": "transcript_15.txt",
+    "startLineNumber": 35,
+    "endLineNumber": 57,
+    "description": "Passive MF: replicates an index (e.g., Nifty 50), tracking error (beta) measures deviation. Should not beat or underperform index by much. Low expense ratio. Active MF: fund manager decides strategy — momentum, value investing, large/mid/small cap focus, sector themes (IT, EV, defense, healthcare). Manager must also invest their own money (promoter stake). Different philosophies: flexi-cap, multi-cap, etc."
+  },
+  {
+    "topicName": "EMI, NAV and Mutual Fund Units",
+    "file": "transcript_15.txt",
+    "startLineNumber": 58,
+    "endLineNumber": 87,
+    "description": "Mutual fund starts at Rs 10/unit (NFO). 100 crore fund = 10 crore units at Rs 10. Units are proportional ownership regardless of share prices. Rs 100 investment gets same proportional exposure as Rs 1 lakh. NAV (Net Asset Value) = total AUM / number of units, published daily after market close. Daily NAV tracks fund performance."
+  },
+  {
+    "topicName": "AUM, NAV and Units",
+    "file": "transcript_15.txt",
+    "startLineNumber": 88,
+    "endLineNumber": 132,
+    "description": "AUM = all stocks at current price + cash held. NAV = AUM / units outstanding. Expense ratio deducted daily (annual ratio / 365) as tiny pinch from NAV — like honey slowly emptied from a jar. As fund buys winning stocks, AUM grows, NAV rises. Unit holder's value increases proportionally. No tax until units are sold. Direct vs regular plan: direct skips distributor, higher NAV over time."
+  },
+  {
+    "topicName": "Expense Ratio",
+    "file": "transcript_15.txt",
+    "startLineNumber": 133,
+    "endLineNumber": 154,
+    "description": "Expense ratio is annual management fee taken as daily deduction from NAV. 1% expense ratio: Rs 1 lakh becomes Rs 99,000 end of year even if market flat. Compounding makes this significant over decades. Passive funds have very low expense ratio (0.1-0.2%). Active funds higher (1-2%). Direct plans cheaper than regular. Always compare direct plan expense ratios when choosing funds."
+  },
+  {
+    "topicName": "Mutual Fund Mechanics",
+    "file": "transcript_15.txt",
+    "startLineNumber": 155,
+    "endLineNumber": 301,
+    "description": "Cash reserve rationale: funds keep ~20% cash to handle redemptions without selling stocks. Custodian role: third-party holds cash, MF sends instructions to buy/sell — prevents fund house from misusing money. ETF vs regular MF: ETF trades on exchange intraday, regular MF settles end of day at NAV. Can MF go bankrupt? Unlikely but can become illiquid — fund can freeze redemptions (happened in COVID). Why invest in MF vs direct stocks: diversification, expert management, Rs 100 gets same decisions as crore investor, no time needed."
+  },
+  {
+    "topicName": "Equity Investment and Returns",
+    "file": "transcript_15.txt",
+    "startLineNumber": 302,
+    "endLineNumber": 334,
+    "description": "When to invest in MF vs direct stocks: manage own money only when portfolio > Rs 5 crore (so 2% expense ratio = Rs 10 lakh = your salary equivalent). Capital gains tax: short-term equity < 12 months = 20%, long-term > 12 months = 12.5%. Dividend option vs growth option: always choose growth to avoid dividend tax event. One stock can go to zero (fraud, regulation), MF spreads risk across 25-30 stocks."
+  },
+  {
+    "topicName": "Equity Tax and Capital Gains",
+    "file": "transcript_16.txt",
+    "startLineNumber": 3,
+    "endLineNumber": 23,
+    "description": "Long-term capital gain (LTCG) on equity: Rs 1.25 lakh tax-free per year, above that 12.5%. Short-term capital gain (STCG): 20%, no free limit. Capital losses can be set off against capital gains and carried forward for 8 years. Tax loss harvesting: sell loss-making equity, buy it back next day to book the loss and carry it forward. Equity and debt set-off rules."
+  },
+  {
+    "topicName": "SIP and Systematic Plans",
+    "file": "transcript_16.txt",
+    "startLineNumber": 24,
+    "endLineNumber": 67,
+    "description": "SIP (Systematic Investment Plan): automates buying MF units on a fixed schedule (daily/monthly) from bank account. Removes timing risk — rupee cost averaging. SWP (Systematic Withdrawal Plan): automate selling units at regular intervals for income. STP (Systematic Transfer Plan): switch money from one fund to another at intervals. Lump sum vs SIP tradeoffs."
+  },
+  {
+    "topicName": "Capital Gains Carry Forward",
+    "file": "transcript_16.txt",
+    "startLineNumber": 68,
+    "endLineNumber": 101,
+    "description": "Capital losses can be carried forward 8 years from the year of occurrence. Each loss has its own 8-year clock. Multiple losses accumulate and offset future profits in FIFO order. Tax-loss harvesting strategy: sell losing MF, rebook same fund next day, use loss to offset future gains. Example: Rs 1 lakh loss this year offsets Rs 50k profit next year and Rs 75k year after — zero tax."
+  },
+  {
+    "topicName": "Mutual Fund Analysis",
+    "file": "transcript_16.txt",
+    "startLineNumber": 102,
+    "endLineNumber": 160,
+    "description": "How to read mutual fund fact sheet on valueresearchonline.com. Key metrics: exit load (penalty if sold before 1 year), return since launch (18% annualised since 1995 for some funds), riskometer, AUM (Rs 91,335 crore), portfolio turnover (9.4% = 9.4% of stocks churned annually), benchmark index. Direct vs regular plan NAV divergence over time (2152 vs 1958) due to 0.68% annual expense difference compounded over 30 years. Always buy direct + growth plan."
+  },
+  {
+    "topicName": "Habits and Productivity",
+    "file": "transcript_19.txt",
+    "startLineNumber": 3,
+    "endLineNumber": 38,
+    "description": "Building productive habits for consistent learning. Randomness vs discipline in note-taking and task management. Creating systems to reduce cognitive effort. Importance of reviewing notes, not just writing them. Habit of consistent small actions compounds into large outcomes — same principle as compound interest applied to behavior."
+  },
+  {
+    "topicName": "Equity Mutual Fund Recap and AUM/NAV",
+    "file": "transcript_19.txt",
+    "startLineNumber": 39,
+    "endLineNumber": 58,
+    "description": "Session recap: dividend vs growth option, index mutual funds, equity mutual fund examples. AUM = assets under management (stocks + cash). NAV = AUM / units = price per unit published daily. ETF (Exchange Traded Fund) definition. Max Drawdown (MDD): maximum peak-to-trough fall ever, used to assess risk-adjusted returns."
+  },
+  {
+    "topicName": "EMI and Asset Recap",
+    "file": "transcript_19.txt",
+    "startLineNumber": 59,
+    "endLineNumber": 79,
+    "description": "Quick recap of EMI structure, AUM/NAV relationship, expense ratio basics. How expense ratio erodes compounding: year 1 Rs 2000 taken from Rs 1 lakh, year 2 Rs 1960 from Rs 98,000, continuing to reduce base. Choosing low expense ratio funds is critical for long-term returns."
+  },
+  {
+    "topicName": "Expense Ratio Deep Dive",
+    "file": "transcript_19.txt",
+    "startLineNumber": 80,
+    "endLineNumber": 110,
+    "description": "Detailed expense ratio impact calculation. At 2% expense ratio, Rs 1 lakh becomes Rs 98,000 after year 1, Rs 96,040 after year 2 even with zero market movement. The compounding of cost erodes wealth silently. Direct vs regular plan comparison. Actively check for 'direct' and 'growth' in fund name when investing."
+  },
+  {
+    "topicName": "Capital Gains Tax",
+    "file": "transcript_19.txt",
+    "startLineNumber": 111,
+    "endLineNumber": 311,
+    "description": "Comprehensive capital gains tax guide. Equity stocks/MF: ≤12 months = 15% STCG, >12 months = 10% LTCG (first Rs 1 lakh free). Real estate: <2 years STCG, >2 years 12.5% LTCG (no indexation post-2024 budget). Debt MF: now taxed as STCG at slab rate. Gold/silver same as real estate. Indexation removed in 2024. Booking Rs 1.25 lakh profit annually tax-free strategy. Setting off short-term losses against short-term gains and vice versa. Carry forward 8 years. Practical example: sell losing equity + profitable debt MF in same year to net out tax."
+  },
+  {
+    "topicName": "ETF and Silver Investment",
+    "file": "transcript_19.txt",
+    "startLineNumber": 312,
+    "endLineNumber": 391,
+    "description": "Exchange Traded Funds (ETFs): trade like stocks on NSE, buy/sell intraday unlike regular MFs. NSE ETF list sorted by value. Silver ETF (Silver Bees): 1 unit = 1 gram silver, price ~Rs 225. Silver price ~Rs 265,000/kg. Nifty Bees (Nifty 50 ETF). Liquid Bees (debt/cash ETF, daily dividend). SBI Gold ETF. TradingView for charting ETFs — free browser app. How to read ETF on valueresearchonline.com: expense ratio 0.56%, 98% commodities, 1.6% cash."
+  },
+  {
+    "topicName": "Candle Charts and Technical Analysis",
+    "file": "transcript_19.txt",
+    "startLineNumber": 392,
+    "endLineNumber": 433,
+    "description": "Introduction to candlestick charts (invented by Japanese rice merchants). OHLC bar: open (left tick), high (top), low (bottom), close (right tick). Candle body = open to close. Wick/shadow = high/low extremes. Green/white candle = close > open (bullish). Red/gray candle = close < open (bearish). Wicks reveal buyer/seller presence. Why chart colors changed to gray/light-red to avoid psychological bias. Auction theory: each candle represents a price discovery session."
+  },
+  {
+    "topicName": "Candle Chart Continuation and Price Action",
+    "file": "transcript_20.txt",
+    "startLineNumber": 1,
+    "endLineNumber": 94,
+    "description": "Advanced candlestick reading: support and resistance levels, wicks as indicators of strong buyers/sellers. Short squeeze and long liquidation explained. Reading market structure: higher highs/higher lows = uptrend. Don't predict reversals — wait for confirmation. Rectangle zones as accumulation/distribution areas. Newton's 3rd law analogy: equal and opposite reaction in price. Market maker behavior during trending moves. Reliance intraday 5-minute chart example. Who's wrong when you buy and someone sells — depends on time frame."
+  },
+  {
+    "topicName": "Intraday Trading and Market Makers",
+    "file": "transcript_21.txt",
+    "startLineNumber": 3,
+    "endLineNumber": 25,
+    "description": "Intraday trading principle: go by inertia, not prediction. 5-minute candle patterns for day trading. Market makers buy at bid/sell at ask repeatedly, facilitating transactions for small spread. They use bots and HFT machines. When market makers stop participating (e.g., during big moves), price runs in one direction. Market maker risk: if caught on wrong side of a trend, can lose quickly."
+  },
+  {
+    "topicName": "Market Makers and Share Trading",
+    "file": "transcript_21.txt",
+    "startLineNumber": 26,
+    "endLineNumber": 37,
+    "description": "Market makers vs intraday traders: market makers only facilitate (no directional bet), intraday traders have directional agendas. Market makers deal in paisa profits on crores of volume. When market makers absent (illiquid ETFs like Liquid Bees), sudden dips/spikes occur — opportunity to place limit orders and catch desperate sellers."
+  },
+  {
+    "topicName": "Trading Styles",
+    "file": "transcript_21.txt",
+    "startLineNumber": 38,
+    "endLineNumber": 83,
+    "description": "Trading styles overview: scalping (seconds to minutes, Rs 5-10 per trade on large volume), swing trading (one side to another over hours/days), positional trading (days to weeks, capturing large moves Rs 3-5 lakh). Everyone has different time frames — no one is right or wrong in a trade. SIP flows create predictable buying around 1st-5th of month. API-based algorithmic trading using broker REST endpoints. Friday behavior: short-term traders close positions before weekend."
+  },
+  {
+    "topicName": "Fixed Deposit and Debt Mutual Fund",
+    "file": "transcript_21.txt",
+    "startLineNumber": 84,
+    "endLineNumber": 159,
+    "description": "Liquid debt fund (Liquid Case / Liquid Bees) as FD alternative: growth-oriented, zero-loss trajectory, started Rs 100 now Rs 130. Low-duration debt MF (NDS Low Duration): AAA-rated bonds (73%), AA (14%), sovereign (government bonds), average maturity 0.15 years (~55 days). Yield to maturity 7.45%. 179 different securities. Low interest rate risk due to short maturity. Credit ratings: AAA = Power Finance Corp (govt-backed), A1+ = S-Bank (slightly less safe). How to read debt MF portfolio on valueresearchonline."
+  },
+  {
+    "topicName": "Debt Mutual Fund Portfolio",
+    "file": "transcript_21.txt",
+    "startLineNumber": 160,
+    "endLineNumber": 178,
+    "description": "Wrap-up of debt MF analysis. Sovereign bonds (government securities) as safest. Long-duration bonds have high interest rate sensitivity — price swings more. Short-duration funds more stable. Yield to maturity tells expected return from current portfolio. Building a diversified bond portfolio for capital preservation and income."
+  },
+  {
+    "topicName": "Debt Fund Role and Equity",
+    "file": "transcript_24.txt",
+    "startLineNumber": 3,
+    "endLineNumber": 14,
+    "description": "Debt fund purpose: beat inflation, preserve capital, avoid FD interest tax (which breaks compounding). Don't try to make high returns in debt — it means taking risk (cooperative society trap). Keep equity for aggressive growth (10-15-20%). Debt is parking lot for emergency fund and stability. Don't be a hero in debt — it will leave you with only the chair."
+  },
+  {
+    "topicName": "Loan Against Equity and Income",
+    "file": "transcript_24.txt",
+    "startLineNumber": 15,
+    "endLineNumber": 41,
+    "description": "Using LAS (loan against securities) on equity holdings to generate cash flow without selling. Tax reduction strategy: interest paid on LAS counts as business expense. Portfolio planning: Rs 5 lakh savings, 40% debt / 60% equity split via monthly SIP of Rs 42,000. Advantage of SIP averaging: get more units when market falls, fewer when high. Notional loss in equity — wait for long-term before booking."
+  },
+  {
+    "topicName": "Stock Portfolio Rebalancing",
+    "file": "transcript_24.txt",
+    "startLineNumber": 42,
+    "endLineNumber": 98,
+    "description": "Portfolio drifts when equity outperforms (60-40 becomes 80-20). Rebalancing: sell some equity, buy debt to restore target ratio. Balanced/hybrid mutual funds automate this (65% equity / 35% debt maintained by fund). Aggressive hybrid fund portfolio example: 51% equity, 27% debt, 2.3% real estate, 20% cash. 93 stocks + 196 bond types. Conservative hybrid fund: 25% equity, 70% debt, 8% yield to maturity."
+  },
+  {
+    "topicName": "Multi-Asset Mutual Funds",
+    "file": "transcript_24.txt",
+    "startLineNumber": 99,
+    "endLineNumber": 164,
+    "description": "Multi-asset funds invest across equity, debt, gold, commodities. Fund of Funds (FOF): MF that buys other MFs, makes asset allocation decisions. Dynamic asset allocation: switches between equity and debt based on market valuation. No internal capital gains tax events within FOF. Meta-decisions by fund manager: which sector/fund to allocate, not individual stocks. Active India FOF example: 12.76% annualised over 3 years vs Nifty 12.5%, expense ratio 1.1% direct."
+  },
+  {
+    "topicName": "Stocks vs Mutual Funds Decision",
+    "file": "transcript_24.txt",
+    "startLineNumber": 165,
+    "endLineNumber": 233,
+    "description": "When to invest in direct stocks vs mutual funds. Large-cap MF overlap problem: most flexicap/multicap funds hold same top stocks (HDFC, ICICI, Reliance, Infosys). Diversify across sectors, not across similar funds. SEBI forces MFs to clearly categorize themselves (mid-cap, large-cap, etc.) to prevent duplication. Common MF favorites: large-cap (Reliance, HDFC), mid-cap (Persistent, Polycap, Dixon). Liquidity requirement drives MF stock choices — must be able to exit large positions."
+  },
+  {
+    "topicName": "Investing and Diversification",
+    "file": "transcript_24.txt",
+    "startLineNumber": 234,
+    "endLineNumber": 269,
+    "description": "True diversification: across asset classes (equity, debt, gold, commodities, international) not just across similar funds. Diversification analogy: knowing IT + cooking + farming = resilience. Don't put all eggs in one basket but also don't put in 20 baskets of the same type. Once a fund grows too large it can't replicate past performance — so MF houses launch new schemes. Why invest? Set clear objectives: capital growth, retirement, child education, house down payment. Invest in what you understand and can stay committed to long-term."
+  }
+]

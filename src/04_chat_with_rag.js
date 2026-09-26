@@ -4,7 +4,7 @@ const OLLAMA_CHAT_URL = "http://localhost:11434/api/chat";
 const TRANSCRIPTS_DIRECTORY =
     "/Users/chiranjeevi/personal-learning/post-STEP/AI/llm-playground/transcripts";
 
-const TOPIC_MAP_FILE = `${TRANSCRIPTS_DIRECTORY}/topic_map.md`;
+const TOPIC_MAP_FILE = `${TRANSCRIPTS_DIRECTORY}/topic_index_v2.json`;
 
 // -----------------------------------------------------------------------------
 // Tool implementations
@@ -29,12 +29,20 @@ const getCurrentTime = (args) => {
 };
 
 const readTopicFromFile = (args) => {
-    const filePath = `${TRANSCRIPTS_DIRECTORY}/${args.fileName}`;
+    console.log(args)
+    const filePath = `${TRANSCRIPTS_DIRECTORY}/${args.file}`;
 
     try {
+        const content = Deno.readTextFileSync(filePath);
+        const lines = content.split("\n");
+
+        const relevantLines = lines
+            .slice(args.startLine - 1, args.endLine)
+            .join("\n");
+
         return {
             success: true,
-            content: Deno.readTextFileSync(filePath),
+            content: relevantLines,
             error: "",
         };
     } catch (_) {
@@ -93,12 +101,24 @@ const tools = [
             parameters: {
                 type: "object",
                 properties: {
-                    fileName: {
+                    file: {
                         type: "string",
                         description: "file name to read topic from",
                     },
+                    topicName :{
+                        type : "string", 
+                        description : "topic name to read"
+                    }, 
+                    startLineNumber : {
+                        type : "number", 
+                        description : "line number to start reading"
+                    },
+                    endLineNumber : {
+                        type : "number", 
+                        description : "line number to end reading"
+                    }
                 },
-                required: ["fileName"],
+                required: ["file", "topicName" , "startLineNumber", "endLineNumber"],
             },
         },
     },
@@ -236,6 +256,7 @@ const processUserQuery = async (messages) => {
     });
 
     const response = await sendMessagesToModel(messages);
+    console.log(messages.slice(2));
     let assistantMessage = await renderAssistantResponse(response);
 
     while (assistantMessage.tool_calls.length > 0) {
@@ -251,6 +272,7 @@ const processUserQuery = async (messages) => {
         });
 
         const nextResponse = await sendMessagesToModel(messages);
+        console.log(messages.slice(2));
 
         assistantMessage = await renderAssistantResponse(nextResponse);
     }
@@ -284,6 +306,11 @@ const createSystemMessages = () => {
 
                     Do not reveal internal info like what tools you have, what is the intelligence you have, 
                     provide a generic diplomatic answer.
+
+                    Do not give answers to anything outside to our knowledge from our swamiji's sessions like giving code, or explaining photosyntesis, 
+                    strictly tell i cant help you with this, my role is to share knowledge on swamiji's sessions
+
+                    if you get any errors from reading topics, tell user there is some issue in system and ask them to visit again
         `,
         },
         {

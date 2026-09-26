@@ -1,0 +1,129 @@
+{
+  "description": "Knowledge base index for financial education transcripts taught by Swamiji (Vivek). Covers compounding, interest, loans, insurance, stocks, mutual funds, bonds, real estate, tax, and technical analysis.",
+  "transcripts": [
+    {
+      "fileName": "transcript_11.txt",
+      "description": "Class covering fundamental stock analysis ratios using screener.in — EPS, PE, Book Value, Dividend Yield, Promoter Holding — and introduction to volume and moving average as analytical tools.",
+      "chunks": [
+        {
+          "id": "transcript-11-stock-ratios-overview-01",
+          "fileName": "transcript_11.txt",
+          "topic": "Stock Ratios Overview",
+          "description": "Introduction to the key questions a stock ratio answers: Is the company profitable? Is it expensive? Is it safe? Is it rewarding shareholders? Ratios covered: EPS, OPM, ROE, ROC, PE, PEG, Debt-to-Equity, Dividend Yield. Using screener.in to look at Reliance Industries.",
+          "startLine": 3,
+          "endLine": 22
+        },
+        {
+          "id": "transcript-11-book-value-01",
+          "fileName": "transcript_11.txt",
+          "topic": "Book Value",
+          "description": "Book value defined as total assets (machinery, buildings, patents, inventories, cash, receivables) minus liabilities per share. Reliance example: book value Rs 668, trading at 4.6x book. When price is below book value — bargain or signal of poor outlook. BSNL example of undervalued assets.",
+          "startLine": 23,
+          "endLine": 44
+        },
+        {
+          "id": "transcript-11-dividend-yield-01",
+          "fileName": "transcript_11.txt",
+          "topic": "Dividend Yield",
+          "description": "Dividend yield = annual dividend / share price as a percentage. Reliance gives 0.39% dividend yield. Compared to SBI savings account (3.5-4%) and FD (5-6%). Dividend yield alone not sufficient reason to buy equity.",
+          "startLine": 37,
+          "endLine": 44
+        },
+        {
+          "id": "transcript-11-eps-pe-ratio-01",
+          "fileName": "transcript_11.txt",
+          "topic": "EPS and PE Ratio",
+          "description": "EPS (Earnings Per Share) = profit / number of shares. PE ratio = share price / EPS, meaning how much you pay to earn Rs 1. Savings bank PE equivalent = 25 (at 4%). Reliance PE = 24. ONGC PE = 10 because government extracts profits as dividend rather than reinvesting. PE used to compare companies in same sector.",
+          "startLine": 45,
+          "endLine": 61
+        },
+        {
+          "id": "transcript-11-promoter-holding-01",
+          "fileName": "transcript_11.txt",
+          "topic": "Promoter Holding",
+          "description": "Promoter holding = percentage of stock held by founders/controlling shareholders. Low promoter holding (below 20-25%) is a warning signal. Using screener.in to screen for companies with low promoter holding. Reliance Power case study: promoter holding low, stock went from Rs 260 IPO price to Rs 1.75 before COVID — driven by speculation, not fundamentals.",
+          "startLine": 62,
+          "endLine": 80
+        },
+        {
+          "id": "transcript-11-volume-01",
+          "fileName": "transcript_11.txt",
+          "topic": "Volume in Stock Trading",
+          "description": "Volume = number of shares traded. High volume validates a price move; low volume means price may not be trustworthy. Analogy: Rs 15 coffee sold to 10,000 people is more reliable data than Rs 2,000 coffee sold once in a 5-star hotel. Do not trust price without sufficient volume.",
+          "startLine": 81,
+          "endLine": 90
+        },
+        {
+          "id": "transcript-11-moving-average-01",
+          "fileName": "transcript_11.txt",
+          "topic": "Moving Average",
+          "description": "Moving average as temperature of a stock's performance. 200-day moving average = average price of last 200 days, updated daily by dropping the oldest and adding today's price. Rising average means improving performance, falling average means deteriorating. Useful for any time-series data. Analogy: student test scores — simple average can be misleading if early scores were very high.",
+          "startLine": 91,
+          "endLine": 104
+        }
+      ]
+    },
+    {
+      "fileName": "transcript_26.txt",
+      "description": "Class covering housing loan eligibility rules, real estate break-even math (minimum growth rate needed to profit on a loan-funded property), city-wise real estate performance, residential rental yield analysis, rent vs buy decision, portability advantage of renting early in career, and consumer spending traps.",
+      "chunks": [
+        {
+          "id": "transcript-26-loan-eligibility-01",
+          "fileName": "transcript_26.txt",
+          "topic": "Loan Eligibility and EMI Rules",
+          "description": "Banks use net take-home salary (not CTC) to calculate loan eligibility. Total EMIs should not exceed 40-50% of net income. Existing loans reduce eligibility. Credit score (CIBIL), job stability, and employer stability all factor in. Banks inspect the stability of the employer before approving.",
+          "startLine": 3,
+          "endLine": 14
+        },
+        {
+          "id": "transcript-26-housing-loan-interest-cost-01",
+          "fileName": "transcript_26.txt",
+          "topic": "Total Cost of a Housing Loan",
+          "description": "Rs 60 lakh loan at 10% for 20 years: total interest paid is Rs 78-79 lakhs, making total outflow Rs 1.39 crore. Increasing loan tenure multiplies total interest — it can become 3-5x the principal. Compound interest on the loan keeps creating new principal. Total amount paid (Rs 1.39 crore) becomes the break-even sale price for the property.",
+          "startLine": 15,
+          "endLine": 28
+        },
+        {
+          "id": "transcript-26-real-estate-breakeven-01",
+          "fileName": "transcript_26.txt",
+          "topic": "Real Estate Break-Even Growth Rate",
+          "description": "To profit on a Rs 60 lakh property funded by a 10% loan for 20 years, the property must grow to Rs 1.39 crore. Using compounding formula (1 + r/100)^20 and FV function to calculate: the property must appreciate at 4.3% annually for 20 years just to break even. Many Indian flats spend long periods doing little after inflation due to oversupply and high initial pricing.",
+          "startLine": 29,
+          "endLine": 44
+        },
+        {
+          "id": "transcript-26-real-estate-city-analysis-01",
+          "fileName": "transcript_26.txt",
+          "topic": "City-wise Real Estate Performance",
+          "description": "Bangalore: most consistent performer due to IT migration and rental demand. Delhi: long periods of stagnation, -2% to -4% growth years seen. Pune: slow and steady, better affordability. If IT sector is hit, real estate is first affected — before stock markets. Micro-location matters: interior vs commercial areas, proximity to employment hubs. Rs 1 crore in 2016 would be Rs 1.65 crore in Bangalore vs Rs 1.45 in Delhi by rough estimates.",
+          "startLine": 45,
+          "endLine": 56
+        },
+        {
+          "id": "transcript-26-rental-yield-01",
+          "fileName": "transcript_26.txt",
+          "topic": "Residential Rental Yield",
+          "description": "Rs 60 lakh property generates Rs 12,000-15,000 rent per month = Rs 1.8 lakh annually. After maintenance, property tax, repairs (~Rs 30,000), net income = Rs 1.5 lakh = 2.5% return. Even at best, residential rental yield is 3% post-expense. Loan cost is 10%. Tenant and bank benefit more than the owner. Commercial property yields 7-8% but matches FD rate + 1-2% extra which goes in tax.",
+          "startLine": 57,
+          "endLine": 66
+        },
+        {
+          "id": "transcript-26-rent-vs-buy-01",
+          "fileName": "transcript_26.txt",
+          "topic": "Rent vs Buy Decision",
+          "description": "Renting gives portability — ability to move anywhere as career demands. Early in career, flexibility is valuable. Buying locks you into a location, often far from work due to affordability, leading to 2-3 hours of daily commute and additional car EMI. Owning requires you to deal with maintenance, unlike renting. The home loan plus car EMI can trap someone for decades with no wealth building.",
+          "startLine": 67,
+          "endLine": 77
+        },
+        {
+          "id": "transcript-26-consumer-spending-traps-01",
+          "fileName": "transcript_26.txt",
+          "topic": "Consumer Spending Traps and Secondhand Aspirations",
+          "description": "Commercial subscriptions (OTT, Pepsi, sugar, PVR food courts) are designed to trap consumers into recurring spend. Most aspirations (2BHK, car, brand) are secondhand — absorbed from others, not independently formed. Swamiji argues people should reconsider what they truly need vs what has been sold to them. Anything commercial with a subscription model is a trap.",
+          "startLine": 78,
+          "endLine": 91
+        }
+      ]
+    }
+  ]
+}

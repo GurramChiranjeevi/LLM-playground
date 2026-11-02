@@ -1,0 +1,76 @@
+[32mINFO[0m:     [28-10-2026 16:03:59] Set chroma_server_nofile to 65535
+[32mINFO[0m:     [28-10-2026 16:03:59] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [28-10-2026 16:03:59] Starting component System
+[36mDEBUG[0m:    [28-10-2026 16:03:59] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [28-10-2026 16:03:59] Starting component SqliteDB
+[36mDEBUG[0m:    [28-10-2026 16:03:59] Starting component SimpleQuotaEnforcer
+[36mDEBUG[0m:    [28-10-2026 16:03:59] Starting component Posthog
+[36mDEBUG[0m:    [28-10-2026 16:03:59] Starting component SimpleRateLimitEnforcer
+[36mDEBUG[0m:    [28-10-2026 16:03:59] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [28-10-2026 16:03:59] Starting component LocalExecutor
+[36mDEBUG[0m:    [28-10-2026 16:03:59] Starting component SegmentAPI
+[36mDEBUG[0m:    [28-10-2026 16:03:59] Starting component SimpleAsyncRateLimitEnforcer
+[31mERROR[0m:    [28-10-2026 16:03:59] Failed to send telemetry event ServerStartEvent: capture() takes 1 positional argument but 3 were given
+[32mINFO[0m:     [28-10-2026 16:04:00] Started server process [[36m33886[0m]
+[32mINFO[0m:     [28-10-2026 16:04:00] Waiting for application startup.
+[32mINFO[0m:     [28-10-2026 16:04:00] Application startup complete.
+[32mINFO[0m:     [28-10-2026 16:04:00] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [28-10-2026 16:06:17] ::1:52653 - "GET / HTTP/1.1" 404
+[32mINFO[0m:     [28-10-2026 16:06:17] ::1:52653 - "GET /favicon.ico HTTP/1.1" 404
+[32mINFO[0m:     [28-10-2026 16:07:57] ::1:52670 - "GET /api/v2/auth/identity HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:07:57] ::1:52671 - "GET /api/v2/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:07:57] ::1:52671 - "GET /api/v2/tenants/default_tenant/databases/default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:08:07] ::1:52674 - "GET /api/v2/auth/identity HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:08:07] ::1:52675 - "GET /api/v2/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:08:07] ::1:52675 - "GET /api/v2/tenants/default_tenant/databases/default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:09:12] ::1:52691 - "GET /api/v2/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:09:30] ::1:52694 - "GET /api/v2/auth/identity HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:09:35] ::1:52695 - "GET /api/v2/version HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:09:52] ::1:52700 - "GET /api/v2/tenants/default_tenant/databases/default_database/collections HTTP/1.1" 200
+[31mERROR[0m:    [28-10-2026 16:10:07] Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[32mINFO[0m:     [28-10-2026 16:10:07] ::1:52701 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:10:12] ::1:52701 - "GET /api/v2/tenants/default_tenant/databases/default_database/collections HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:10:16] ::1:52701 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections HTTP/1.1" 409
+[32mINFO[0m:     [28-10-2026 16:10:19] ::1:52701 - "GET /api/v2/tenants/default_tenant/databases/default_database/collections HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:10:27] ::1:52710 - "GET /api/v2/heartbeat HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:10:29] ::1:52710 - "GET /api/v2/heartbeat HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:10:31] ::1:52710 - "GET /api/v2/heartbeat HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:10:32] ::1:52710 - "GET /api/v2/heartbeat HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:10:32] ::1:52710 - "GET /api/v2/heartbeat HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:10:33] ::1:52710 - "GET /api/v2/heartbeat HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:10:34] ::1:52710 - "GET /api/v2/heartbeat HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:10:34] ::1:52710 - "GET /api/v2/heartbeat HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:10:54] ::1:52714 - "GET /api/v2/tenants/default_tenant/databases/default_database/collections HTTP/1.1" 200
+[31mERROR[0m:    [28-10-2026 16:12:58] Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[32mINFO[0m:     [28-10-2026 16:12:58] ::1:52755 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:13:11] ::1:52756 - "GET /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/count HTTP/1.1" 200
+[31mERROR[0m:    [28-10-2026 16:13:57] Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given
+[32mINFO[0m:     [28-10-2026 16:13:57] ::1:52762 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/get HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2026 16:14:53] Starting component PersistentLocalHnswSegment
+[31mERROR[0m:    [28-10-2026 16:14:53] Failed to send telemetry event CollectionAddEvent: capture() takes 1 positional argument but 3 were given
+[32mINFO[0m:     [28-10-2026 16:14:53] ::1:52774 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/add HTTP/1.1" 201
+[32mINFO[0m:     [28-10-2026 16:14:57] ::1:52774 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:15:18] ::1:52780 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:15:20] ::1:52780 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/get HTTP/1.1" 200
+[31mERROR[0m:    [28-10-2026 16:15:42] Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given
+[32mINFO[0m:     [28-10-2026 16:15:42] ::1:52784 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:18:29] ::1:52814 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:19:43] ::1:52824 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:19:55] ::1:52827 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:19:56] ::1:52827 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:20:15] ::1:52828 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:20:27] ::1:52830 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:26:39] ::1:52899 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:27:26] ::1:52912 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:27:31] ::1:52914 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:27:41] ::1:52916 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:27:46] ::1:52923 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:27:51] ::1:52924 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/get HTTP/1.1" 200
+[31mERROR[0m:    [28-10-2026 16:51:55] Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+[32mINFO[0m:     [28-10-2026 16:51:55] ::1:53178 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/query HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:52:03] ::1:53179 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/query HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:53:16] ::1:53187 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/add HTTP/1.1" 201
+[32mINFO[0m:     [28-10-2026 16:53:23] ::1:53191 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:53:51] ::1:53195 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/add HTTP/1.1" 201
+[32mINFO[0m:     [28-10-2026 16:54:05] ::1:53198 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/query HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2026 16:54:13] ::1:53201 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/f0b45467-658d-4120-895f-6449aa1c4a85/query HTTP/1.1" 200
